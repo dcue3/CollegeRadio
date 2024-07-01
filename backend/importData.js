@@ -7,6 +7,7 @@ const path = require('path');
 const mongoURI = 'mongodb://localhost:27017/colleges'; // Replace with your MongoDB URI
 mongoose.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true });
 
+
 // Read the JSON file
 const jsonData = fs.readFileSync(path.resolve(__dirname, 'colleges_with_locations.json'), 'utf8');
 const colleges = JSON.parse(jsonData);

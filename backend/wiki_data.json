@@ -1,0 +1,13 @@
+[
+    {
+        "letters": "WEGL",
+        "city": "Auburn",
+        "state": "Alabama",
+        "link": "upload.wikimedia.org/wikipedia/en/thumb/7/7f/Auburn_University_seal.svg/140px-Auburn_University_seal.svg.png",
+        "college": "Auburn University",
+        "freq": "91.1 FM",
+        "location": {
+            "lat": 32.5980549,
+            "lng": -85.4942667
+        },
+        "_id": 
