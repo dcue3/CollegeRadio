@@ -1,0 +1,4861 @@
+[
+  {
+    "letters": "WEGL",
+    "city": "Auburn",
+    "state": "Alabama",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/7f/Auburn_University_seal.svg/140px-Auburn_University_seal.svg.png",
+    "college": "Auburn University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 32.5980549,
+      "lng": -85.4942667
+    }
+  },
+  {
+    "letters": "WJAB",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/93/Alabama_A%26M_University_Seal.png/160px-Alabama_A%26M_University_Seal.png",
+    "college": "Alabama A&M University",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 34.78384090000001,
+      "lng": -86.5722237
+    }
+  },
+  {
+    "letters": "WLJS",
+    "city": "Jacksonville",
+    "state": "Alabama",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/17/Jacksonville_State_University_seal.png/220px-Jacksonville_State_University_seal.png",
+    "college": "Jacksonville State University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 33.8230953,
+      "lng": -85.7681921
+    }
+  },
+  {
+    "letters": "WVUA-FM",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/University_of_Alabama_seal.svg/170px-University_of_Alabama_seal.svg.png",
+    "college": "University of Alabama",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 33.2114385,
+      "lng": -87.5401002
+    }
+  },
+  {
+    "letters": "KRUA",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6a/UAAnchorage_seal.png/150px-UAAnchorage_seal.png",
+    "college": "University of Alaska Anchorage",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 61.1910421,
+      "lng": -149.8195598
+    }
+  },
+  {
+    "letters": "KSUA",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/75/UAFairbanksSeal.png/150px-UAFairbanksSeal.png",
+    "college": "University of Alaska Fairbanks",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 64.8555748,
+      "lng": -147.8340598
+    }
+  },
+  {
+    "letters": "KLJX-LP",
+    "city": "Flagstaff",
+    "state": "Arizona",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/Northern_Arizona_University_seal.svg/150px-Northern_Arizona_University_seal.svg.png",
+    "college": "Northern Arizona University",
+    "freq": "107.1 FM",
+    "location": {
+      "lat": 35.1802684,
+      "lng": -111.6540336
+    }
+  },
+  {
+    "letters": "KASC",
+    "city": "Tempe",
+    "state": "Arizona",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a1/Arizona_State_University_seal.svg/150px-Arizona_State_University_seal.svg.png",
+    "college": "Arizona State University",
+    "freq": "1330 AM",
+    "location": {
+      "lat": 33.4229975,
+      "lng": -111.9278306
+    }
+  },
+  {
+    "letters": "KHDX",
+    "city": "Conway",
+    "state": "Arkansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b5/Hendrix_College_seal.png/150px-Hendrix_College_seal.png",
+    "college": "Hendrix College",
+    "freq": "93.1 FM",
+    "location": {
+      "lat": 35.1017695,
+      "lng": -92.44072
+    }
+  },
+  {
+    "letters": "KXUA",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_Arkansas_seal.svg/140px-University_of_Arkansas_seal.svg.png",
+    "college": "University of Arkansas",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 36.0686895,
+      "lng": -94.1748471
+    }
+  },
+  {
+    "letters": "KXRJ",
+    "city": "Russellville",
+    "state": "Arkansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/ca/Arkansas_Tech_University_seal.svg/200px-Arkansas_Tech_University_seal.svg.png",
+    "college": "Arkansas Tech University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 35.29378880000001,
+      "lng": -93.1361472
+    }
+  },
+  {
+    "letters": "KVHU",
+    "city": "Searcy",
+    "state": "Arkansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e1/HardingUniversity_logo.svg/248px-HardingUniversity_logo.svg.png",
+    "college": "Harding University",
+    "freq": "95.3 FM",
+    "location": {
+      "lat": 35.2458698,
+      "lng": -91.72456
+    }
+  },
+  {
+    "letters": "KLAB",
+    "city": "Siloam Springs",
+    "state": "Arkansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/ea/John_Brown_University_stacked_logo.png/225px-John_Brown_University_stacked_logo.png",
+    "college": "John Brown University",
+    "freq": "101.1 FM",
+    "location": {
+      "lat": 36.1905331,
+      "lng": -94.55922869999999
+    }
+  },
+  {
+    "letters": "KHSU",
+    "city": "Arcata",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/14/Cal_Poly_Humboldt_seal.svg/150px-Cal_Poly_Humboldt_seal.svg.png",
+    "college": "Humboldt State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 40.8747332,
+      "lng": -124.0789268
+    }
+  },
+  {
+    "letters": "KALX",
+    "city": "Berkeley",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Seal_of_University_of_California%2C_Berkeley.svg/150px-Seal_of_University_of_California%2C_Berkeley.svg.png",
+    "college": "University of California, Berkeley",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 37.87015100000001,
+      "lng": -122.2594606
+    }
+  },
+  {
+    "letters": "KCHO",
+    "city": "Chico",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/b/be/Chico-State-Primary-Stacked-Logo.svg/150px-Chico-State-Primary-Stacked-Logo.svg.png",
+    "college": "California State University, Chico",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.7296653,
+      "lng": -121.8478871
+    }
+  },
+  {
+    "letters": "KSPC",
+    "city": "Claremont",
+    "state": "California",
+    "college": "Claremont Colleges[2]",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 34.1035316,
+      "lng": -117.7119768
+    }
+  },
+  {
+    "letters": "KDVS",
+    "city": "Davis",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_University_of_California_Davis.svg/150px-The_University_of_California_Davis.svg.png",
+    "college": "University of California, Davis",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 38.5382322,
+      "lng": -121.7617125
+    }
+  },
+  {
+    "letters": "KOHL",
+    "city": "Fremont",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f9/Ohlone_college_logo.jpg/220px-Ohlone_college_logo.jpg",
+    "college": "Ohlone College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 37.5293321,
+      "lng": -121.9145556
+    }
+  },
+  {
+    "letters": "KCRH",
+    "city": "Hayward",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chabot_College_07819.JPG/250px-Chabot_College_07819.JPG",
+    "college": "Chabot College",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 37.6427231,
+      "lng": -122.1062344
+    }
+  },
+  {
+    "letters": "KUCI",
+    "city": "Irvine",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/150px-University_of_California%2C_Irvine_seal.svg.png",
+    "college": "University of California, Irvine",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 33.6423814,
+      "lng": -117.8416747
+    }
+  },
+  {
+    "letters": "Kbeach",
+    "city": "Long Beach",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f5/CSU-Longbeach_seal.svg/180px-CSU-Longbeach_seal.svg.png",
+    "college": "California State University, Long Beach",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 33.7838235,
+      "lng": -118.1140904
+    }
+  },
+  {
+    "letters": "KFJC",
+    "city": "Los Altos Hills",
+    "state": "California",
+    "college": "Foothill–De Anza Community College District",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 37.3585005,
+      "lng": -122.1283293
+    }
+  },
+  {
+    "letters": "KOXY",
+    "city": "Los Angeles",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f1/Occidental_College_Seal.svg/130px-Occidental_College_Seal.svg.png",
+    "college": "Occidental College",
+    "freq": "(web only)",
+    "location": {
+      "lat": 34.12736,
+      "lng": -118.2104777
+    }
+  },
+  {
+    "letters": "KXSC",
+    "city": "Los Angeles",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bc/University_of_Southern_California_seal.svg/150px-University_of_Southern_California_seal.svg.png",
+    "college": "University of Southern California",
+    "freq": "1560 AM",
+    "location": {
+      "lat": 34.0223519,
+      "lng": -118.285117
+    }
+  },
+  {
+    "letters": "KXLU",
+    "city": "Los Angeles",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/72/Loyola_Marymount_University_%28LMU%29_ceremonial_mark.png/150px-Loyola_Marymount_University_%28LMU%29_ceremonial_mark.png",
+    "college": "Loyola Marymount University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 33.9691953,
+      "lng": -118.4188984
+    }
+  },
+  {
+    "letters": "Spark Radio",
+    "city": "Montecito",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a5/Westmont_College_logo.jpg/150px-Westmont_College_logo.jpg",
+    "college": "Westmont College",
+    "freq": "(web only)",
+    "location": {
+      "lat": 34.4488434,
+      "lng": -119.6610313
+    }
+  },
+  {
+    "letters": "KSBR",
+    "city": "Mission Viejo",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8e/Saddleback_College_seal.svg/180px-Saddleback_College_seal.svg.png",
+    "college": "Saddleback College",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 33.5542768,
+      "lng": -117.6640079
+    }
+  },
+  {
+    "letters": "KCSN",
+    "city": "Northridge",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8c/CSUNS.svg/150px-CSUNS.svg.png",
+    "college": "California State University, Northridge",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 34.2406756,
+      "lng": -118.5300196
+    }
+  },
+  {
+    "letters": "KPCC",
+    "city": "Pasadena",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/c/cf/Pasadena_City_College_logo.gif",
+    "college": "Pasadena City College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 34.1439461,
+      "lng": -118.118761
+    }
+  },
+  {
+    "letters": "KUCR",
+    "city": "Riverside",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/51/UC_Riverside_seal.svg/150px-UC_Riverside_seal.svg.png",
+    "college": "University of California, Riverside",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 33.9737055,
+      "lng": -117.3280644
+    }
+  },
+  {
+    "letters": "KCR",
+    "city": "San Diego",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/60/San_Diego_State_University_seal.svg/150px-San_Diego_State_University_seal.svg.png",
+    "college": "San Diego State University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 32.77641210000001,
+      "lng": -117.0719191
+    }
+  },
+  {
+    "letters": "KSDT Radio",
+    "city": "San Diego",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Seal_of_the_University_of_California%2C_San_Diego.svg/150px-Seal_of_the_University_of_California%2C_San_Diego.svg.png",
+    "college": "University of California, San Diego",
+    "freq": "(web only)",
+    "location": {
+      "lat": 32.881168,
+      "lng": -117.2343605
+    }
+  },
+  {
+    "letters": "KKSM",
+    "city": "San Diego",
+    "state": "California",
+    "college": "Palomar Community College",
+    "freq": "1320 AM",
+    "location": {
+      "lat": 33.1512505,
+      "lng": -117.1821885
+    }
+  },
+  {
+    "letters": "KUSF",
+    "city": "San Francisco",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d2/University_of_San_Francisco_coat_of_arms.gif/150px-University_of_San_Francisco_coat_of_arms.gif",
+    "college": "University of San Francisco",
+    "freq": "(web only)",
+    "location": {
+      "lat": 37.7765643,
+      "lng": -122.4507187
+    }
+  },
+  {
+    "letters": "KSJS",
+    "city": "San Jose",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SJSU_Seal.svg/150px-SJSU_Seal.svg.png",
+    "college": "San Jose State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 37.3351874,
+      "lng": -121.8810715
+    }
+  },
+  {
+    "letters": "KCPR",
+    "city": "San Luis Obispo",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d9/CalPoly_Seal.svg/150px-CalPoly_Seal.svg.png",
+    "college": "California Polytechnic State University",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 35.3050053,
+      "lng": -120.6624942
+    }
+  },
+  {
+    "letters": "KCSB-FM",
+    "city": "Santa Barbara",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/48/UC_Santa_Barbara_Seal.png/150px-UC_Santa_Barbara_Seal.png",
+    "college": "University of California, Santa Barbara",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 34.4139629,
+      "lng": -119.848947
+    }
+  },
+  {
+    "letters": "KSCU",
+    "city": "Santa Clara",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/ad/Santa_Clara_U_Seal.svg/140px-Santa_Clara_U_Seal.svg.png",
+    "college": "Santa Clara University",
+    "freq": "103.3 FM",
+    "location": {
+      "lat": 37.3489255,
+      "lng": -121.9367804
+    }
+  },
+  {
+    "letters": "KZSC",
+    "city": "Santa Cruz",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_University_of_California_1868_UCSC.svg/150px-The_University_of_California_1868_UCSC.svg.png",
+    "college": "University of California, Santa Cruz",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 36.9905322,
+      "lng": -122.0584354
+    }
+  },
+  {
+    "letters": "KZSU",
+    "city": "Stanford",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Seal_of_Leland_Stanford_Junior_University.svg/150px-Seal_of_Leland_Stanford_Junior_University.svg.png",
+    "college": "Stanford University",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 37.42766,
+      "lng": -122.17006
+    }
+  },
+  {
+    "letters": "K-PAC",
+    "city": "Stockton",
+    "state": "California",
+    "college": "University of the Pacific",
+    "freq": "(web only)",
+    "location": {
+      "lat": 37.9798869,
+      "lng": -121.3128577
+    }
+  },
+  {
+    "letters": "KWDC-LP",
+    "city": "Stockton",
+    "state": "California",
+    "link": "upload.wikimedia.org/wikipedia/en/a/ac/San_Joaquin_Delta_College_logo.jpg",
+    "college": "San Joaquin Delta College",
+    "freq": "93.5 FM",
+    "location": {
+      "lat": 37.9953671,
+      "lng": -121.3195528
+    }
+  },
+  {
+    "letters": "KVCU (\"Radio 1190\")",
+    "city": "Boulder",
+    "state": "Colorado",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/02/Seal_of_the_University_of_Colorado.svg/150px-Seal_of_the_University_of_Colorado.svg.png",
+    "college": "University of Colorado Boulder",
+    "freq": "1190 AM",
+    "location": {
+      "lat": 40.0073499,
+      "lng": -105.2659871
+    }
+  },
+  {
+    "letters": "KAFA-FM",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/ec/US-AirForceAcademy-Shield.svg/200px-US-AirForceAcademy-Shield.svg.png",
+    "college": "United States Air Force Academy",
+    "freq": "97.7 FM",
+    "location": {
+      "lat": 38.9983573,
+      "lng": -104.8617533
+    }
+  },
+  {
+    "letters": "KCSU-FM",
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/33/Colorado_State_University_seal.svg/150px-Colorado_State_University_seal.svg.png",
+    "college": "Colorado State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 40.5729432,
+      "lng": -105.0848391
+    }
+  },
+  {
+    "letters": "KMSA",
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CMUseal.png/220px-CMUseal.png",
+    "college": "Colorado Mesa University",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 39.0804917,
+      "lng": -108.5534074
+    }
+  },
+  {
+    "letters": "WVOF",
+    "city": "Fairfield",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e0/Fairfield_University_seal.svg/200px-Fairfield_University_seal.svg.png",
+    "college": "Fairfield University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 41.1598949,
+      "lng": -73.2575513
+    }
+  },
+  {
+    "letters": "WRTC-FM",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/4d/Trinity_College_Connecticut_Seal.svg/150px-Trinity_College_Connecticut_Seal.svg.png",
+    "college": "Trinity College (Connecticut)",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 41.7477163,
+      "lng": -72.6905038
+    }
+  },
+  {
+    "letters": "WESU",
+    "city": "Middletown",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/c1/WesAcademicSeal.png/150px-WesAcademicSeal.png",
+    "college": "Wesleyan University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.5567587,
+      "lng": -72.6568336
+    }
+  },
+  {
+    "letters": "WCNI",
+    "city": "New London",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8b/Formal_Seal_of_Connecticut_College%2C_New_London%2C_CT%2C_USA.svg/166px-Formal_Seal_of_Connecticut_College%2C_New_London%2C_CT%2C_USA.svg.png",
+    "college": "Connecticut College",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 41.3797568,
+      "lng": -72.10434289999999
+    }
+  },
+  {
+    "letters": "WHUS",
+    "city": "Storrs",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/56/University_of_Connecticut_seal.svg/150px-University_of_Connecticut_seal.svg.png",
+    "college": "University of Connecticut",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 41.81354150000001,
+      "lng": -72.2452715
+    }
+  },
+  {
+    "letters": "WWUH",
+    "city": "West Hartford",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6c/University_of_Hartford_coat_of_arms.svg/180px-University_of_Hartford_coat_of_arms.svg.png",
+    "college": "University of Hartford",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 41.7984942,
+      "lng": -72.7138039
+    }
+  },
+  {
+    "letters": "WNHU",
+    "city": "West Haven",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/55/University_of_New_Haven_seal.png/150px-University_of_New_Haven_seal.png",
+    "college": "University of New Haven",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 41.2921105,
+      "lng": -72.96189919999999
+    }
+  },
+  {
+    "letters": "WYBC-AM",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yale_University_Shield_1.svg/150px-Yale_University_Shield_1.svg.png",
+    "college": "Yale University",
+    "freq": "1340 AM",
+    "location": {
+      "lat": 41.3163244,
+      "lng": -72.92234309999999
+    }
+  },
+  {
+    "letters": "WYBC-FM",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/07/Yale_University_Shield_1.svg/150px-Yale_University_Shield_1.svg.png",
+    "college": "Yale University",
+    "freq": "94.3 FM",
+    "location": {
+      "lat": 41.3163244,
+      "lng": -72.92234309999999
+    }
+  },
+  {
+    "letters": "WECS",
+    "city": "Willimantic",
+    "state": "Connecticut",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/84/Seal_1_of_Eastern_Connecticut_State_University.png/200px-Seal_1_of_Eastern_Connecticut_State_University.png",
+    "college": "Eastern Connecticut State University",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 41.7214436,
+      "lng": -72.21775269999999
+    }
+  },
+  {
+    "letters": "WVUD",
+    "city": "Newark",
+    "state": "Delaware",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/29/University_of_Delaware_Seal.svg/150px-University_of_Delaware_Seal.svg.png",
+    "college": "University of Delaware",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 39.6779504,
+      "lng": -75.7506114
+    }
+  },
+  {
+    "letters": "WCUA",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Catholic_University_Logo.svg/135px-Catholic_University_Logo.svg.png",
+    "college": "The Catholic University of America",
+    "freq": "(web only)",
+    "location": {
+      "lat": 38.9368811,
+      "lng": -76.99869199999999
+    }
+  },
+  {
+    "letters": "WGTB",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Georgetown_University_seal.svg/150px-Georgetown_University_seal.svg.png",
+    "college": "Georgetown University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 38.9076089,
+      "lng": -77.07225849999999
+    }
+  },
+  {
+    "letters": "WRGW",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d8/George_Washington_University_seal.svg/150px-George_Washington_University_seal.svg.png",
+    "college": "The George Washington University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 38.8997145,
+      "lng": -77.0485992
+    }
+  },
+  {
+    "letters": "WVAU",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8b/American_University_Seal.svg/150px-American_University_Seal.svg.png",
+    "college": "American University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 38.9380155,
+      "lng": -77.088922
+    }
+  },
+  {
+    "letters": "WVUM",
+    "city": "Coral Gables",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/27/University_of_Miami_seal.svg/150px-University_of_Miami_seal.svg.png",
+    "college": "University of Miami",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 25.7173947,
+      "lng": -80.2781262
+    }
+  },
+  {
+    "letters": "WIKD-LP",
+    "city": "Daytona Beach",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/be/Embry-Riddle_Aeronautical_University_seal.svg/150px-Embry-Riddle_Aeronautical_University_seal.svg.png",
+    "college": "Embry-Riddle Aeronautical University",
+    "freq": "102.5 FM",
+    "location": {
+      "lat": 29.1917102,
+      "lng": -81.0501089
+    }
+  },
+  {
+    "letters": "WNSU (off of WKPX)",
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nova_Southeastern_University_seal.svg/150px-Nova_Southeastern_University_seal.svg.png",
+    "college": "Nova Southeastern University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 26.0786011,
+      "lng": -80.2457075
+    }
+  },
+  {
+    "letters": "WFIT",
+    "city": "Melbourne",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/7f/Florida_Institute_of_Technology_%28seal%29.svg/150px-Florida_Institute_of_Technology_%28seal%29.svg.png",
+    "college": "Florida Institute of Technology",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 28.0639632,
+      "lng": -80.621455
+    }
+  },
+  {
+    "letters": "WRGP",
+    "city": "Miami",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9e/Florida_Internation_University_seal.svg/180px-Florida_Internation_University_seal.svg.png",
+    "college": "Florida International University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 25.7562465,
+      "lng": -80.3755401
+    }
+  },
+  {
+    "letters": "WFCF",
+    "city": "St. Augustine",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/52/Flagler_College_shield.svg/130px-Flagler_College_shield.svg.png",
+    "college": "Flagler College",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 29.8932072,
+      "lng": -81.3155866
+    }
+  },
+  {
+    "letters": "WKPX",
+    "city": "Sunrise",
+    "state": "Florida",
+    "college": "Piper High School/Nova Southeastern University",
+    "freq": "88.5 FM",
+    "location": null
+  },
+  {
+    "letters": "WANM",
+    "city": "Tallahassee",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/90/Florida_A%26M_University_seal.svg/150px-Florida_A%26M_University_seal.svg.png",
+    "college": "Florida A&M University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 30.4227211,
+      "lng": -84.2877093
+    }
+  },
+  {
+    "letters": "WVFS",
+    "city": "Tallahassee",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6b/Florida_State_University_seal.svg/150px-Florida_State_University_seal.svg.png",
+    "college": "Florida State University",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 30.442087,
+      "lng": -84.2979579
+    }
+  },
+  {
+    "letters": "WBUL (Bulls Radio)",
+    "city": "Tampa",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d1/University_of_South_Florida_seal.svg/150px-University_of_South_Florida_seal.svg.png",
+    "college": "University of South Florida",
+    "freq": "1620 AM",
+    "location": {
+      "lat": 28.0587031,
+      "lng": -82.41385389999999
+    }
+  },
+  {
+    "letters": "WPRK",
+    "city": "Winter Park",
+    "state": "Florida",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/00/Rollins_College_seal.svg/130px-Rollins_College_seal.svg.png",
+    "college": "Rollins College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 28.5927153,
+      "lng": -81.3485013
+    }
+  },
+  {
+    "letters": "WUOG",
+    "city": "Athens",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2d/University_of_Georgia_seal.svg/150px-University_of_Georgia_seal.svg.png",
+    "college": "University of Georgia",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 33.9566656,
+      "lng": -83.375192
+    }
+  },
+  {
+    "letters": "WCLK-FM",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/dd/Clark_Atlanta_University_seal.svg/150px-Clark_Atlanta_University_seal.svg.png",
+    "college": "Clark Atlanta University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 33.7515658,
+      "lng": -84.4112315
+    }
+  },
+  {
+    "letters": "WREK",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Georgia_Tech_seal.svg/150px-Georgia_Tech_seal.svg.png",
+    "college": "Georgia Institute of Technology",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 33.7756178,
+      "lng": -84.39628499999999
+    }
+  },
+  {
+    "letters": "WRAS-FM",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c1/Georgia_State_University_Official_Seal.png/150px-Georgia_State_University_Official_Seal.png",
+    "college": "Georgia State University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 33.753068,
+      "lng": -84.38528190000001
+    }
+  },
+  {
+    "letters": "WGHR (college radio)",
+    "city": "Marietta",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SPSUlogo.png/220px-SPSUlogo.png",
+    "college": "Southern Polytechnic State University",
+    "freq": "(defunct)",
+    "location": null
+  },
+  {
+    "letters": "WUWG-FM",
+    "city": "Carrollton",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/08/University_of_West_Georgia_seal.svg/170px-University_of_West_Georgia_seal.svg.png",
+    "college": "University of West Georgia",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 33.575346,
+      "lng": -85.1041219
+    }
+  },
+  {
+    "letters": "WBCX-FM",
+    "city": "Gainesville",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BRENAU_COLLEGE_DISTRICT%2C_GAINESVILLE%2C_HALL_COUNTY%2C_GA.jpg/250px-BRENAU_COLLEGE_DISTRICT%2C_GAINESVILLE%2C_HALL_COUNTY%2C_GA.jpg",
+    "college": "Brenau University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 34.3041267,
+      "lng": -83.8197347
+    }
+  },
+  {
+    "letters": "WGUR-FM",
+    "city": "Milledgeville",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Georgia_College_Seal_%28Updated%29.png/220px-Georgia_College_Seal_%28Updated%29.png",
+    "college": "Georgia College & State University",
+    "freq": "95.3 FM",
+    "location": {
+      "lat": 33.0804485,
+      "lng": -83.2319298
+    }
+  },
+  {
+    "letters": "WHCJ-FM",
+    "city": "Savannah",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/81/Savannah_State_University_seal.jpg/180px-Savannah_State_University_seal.jpg",
+    "college": "Savannah State University",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 32.0241968,
+      "lng": -81.0625787
+    }
+  },
+  {
+    "letters": "WVGS",
+    "city": "Statesboro",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/59/Seal_of_Georgia_Southern_University.png/150px-Seal_of_Georgia_Southern_University.png",
+    "college": "Georgia Southern University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 32.4206845,
+      "lng": -81.7869734
+    }
+  },
+  {
+    "letters": "WVVS-FM",
+    "city": "Valdosta",
+    "state": "Georgia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0e/Vstateseal.png/220px-Vstateseal.png",
+    "college": "Valdosta State University",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 30.8491088,
+      "lng": -83.2892073
+    }
+  },
+  {
+    "letters": "KTUH",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8f/UH_Manoa_Logo.png/260px-UH_Manoa_Logo.png",
+    "college": "University of Hawaii at Manoa",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 21.299824,
+      "lng": -157.8148228
+    }
+  },
+  {
+    "letters": "KUOI",
+    "city": "Moscow",
+    "state": "Idaho",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_Idaho_seal.svg/150px-University_of_Idaho_seal.svg.png",
+    "college": "University of Idaho",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 46.7288124,
+      "lng": -117.0126084
+    }
+  },
+  {
+    "letters": "WPGU",
+    "city": "Champaign",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/a/af/University_of_Illinois_seal.svg/150px-University_of_Illinois_seal.svg.png",
+    "college": "University of Illinois at Urbana-Champaign",
+    "freq": "107.1 FM",
+    "location": {
+      "lat": 40.1019523,
+      "lng": -88.2271615
+    }
+  },
+  {
+    "letters": "WEIU",
+    "city": "Charleston",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3b/Eastern_Illinois_University_seal.svg/150px-Eastern_Illinois_University_seal.svg.png",
+    "college": "Eastern Illinois University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 39.4835612,
+      "lng": -88.17521839999999
+    }
+  },
+  {
+    "letters": "WZRD",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/a/a6/NEIU_seal.png",
+    "college": "Northeastern Illinois University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 41.9794789,
+      "lng": -87.7188527
+    }
+  },
+  {
+    "letters": "WCRX-FM",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2a/CCC_Official_seal.png/150px-CCC_Official_seal.png",
+    "college": "Columbia College Chicago",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.8742327,
+      "lng": -87.62483379999999
+    }
+  },
+  {
+    "letters": "WHPK",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/79/University_of_Chicago_shield.svg/130px-University_of_Chicago_shield.svg.png",
+    "college": "University of Chicago",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 41.7904484,
+      "lng": -87.6003953
+    }
+  },
+  {
+    "letters": "WIIT",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/96/Illinois_Institute_of_Technology_%28seal%29.svg/150px-Illinois_Institute_of_Technology_%28seal%29.svg.png",
+    "college": "Illinois Institute of Technology",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 41.8348731,
+      "lng": -87.6270059
+    }
+  },
+  {
+    "letters": "WKKC",
+    "city": "Chicago",
+    "state": "Illinois",
+    "college": "Kennedy-King College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 41.7782973,
+      "lng": -87.64390039999999
+    }
+  },
+  {
+    "letters": "WLRA",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lewis_University_seal.svg/180px-Lewis_University_seal.svg.png",
+    "college": "Lewis University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.6048101,
+      "lng": -88.07962590000001
+    }
+  },
+  {
+    "letters": "WXAV",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/11/Saint_Xavier_University_seal.svg/150px-Saint_Xavier_University_seal.svg.png",
+    "college": "St. Xavier University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 41.7090685,
+      "lng": -87.7151562
+    }
+  },
+  {
+    "letters": "WLUW",
+    "city": "Chicago",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/49/LoyolaUniversityChicagoSeal.png/150px-LoyolaUniversityChicagoSeal.png",
+    "college": "Loyola University Chicago",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 41.9983568,
+      "lng": -87.6569374
+    }
+  },
+  {
+    "letters": "WNUR",
+    "city": "Evanston",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/56/Northwestern_University_seal.svg/150px-Northwestern_University_seal.svg.png",
+    "college": "Northwestern University",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 42.0564594,
+      "lng": -87.67526699999999
+    }
+  },
+  {
+    "letters": "WDCB",
+    "city": "Glen Ellyn",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/c0/College_of_DuPage.JPG/220px-College_of_DuPage.JPG",
+    "college": "College of DuPage",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 41.8411058,
+      "lng": -88.07334010000001
+    }
+  },
+  {
+    "letters": "WLRA",
+    "city": "Joliet",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lewis_University_seal.svg/180px-Lewis_University_seal.svg.png",
+    "college": "Lewis University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.6048101,
+      "lng": -88.07962590000001
+    }
+  },
+  {
+    "letters": "WMXM",
+    "city": "Lake Forest",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6f/Lake_Forest_College_logo.svg/150px-Lake_Forest_College_logo.svg.png",
+    "college": "Lake Forest College",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 42.2503397,
+      "lng": -87.8286109
+    }
+  },
+  {
+    "letters": "WLRA",
+    "city": "Lockport",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lewis_University_seal.svg/180px-Lewis_University_seal.svg.png",
+    "college": "Lewis University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.6048101,
+      "lng": -88.07962590000001
+    }
+  },
+  {
+    "letters": "WIUS",
+    "city": "Macomb",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Western_Illinois_University_logo.png/150px-Western_Illinois_University_logo.png",
+    "college": "Western Illinois University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 40.4705003,
+      "lng": -90.68585589999999
+    }
+  },
+  {
+    "letters": "WRCR",
+    "city": "Rockford",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/28/Rockford_University_seal.svg/150px-Rockford_University_seal.svg.png",
+    "college": "Rockford College",
+    "freq": "1700 AM",
+    "location": {
+      "lat": 42.2688957,
+      "lng": -89.0187474
+    }
+  },
+  {
+    "letters": "WLRA",
+    "city": "Romeoville",
+    "state": "Illinois",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a8/Lewis_University_seal.svg/180px-Lewis_University_seal.svg.png",
+    "college": "Lewis University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.6048101,
+      "lng": -88.07962590000001
+    }
+  },
+  {
+    "letters": "WIUX-LP",
+    "city": "Bloomington",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5d/Indiana_University_seal.svg/150px-Indiana_University_seal.svg.png",
+    "college": "Indiana University Bloomington",
+    "freq": "99.1 FM",
+    "location": {
+      "lat": 39.1682449,
+      "lng": -86.52300729999999
+    }
+  },
+  {
+    "letters": "WGRE",
+    "city": "Greencastle",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bb/DePauw_University_seal.png/180px-DePauw_University_seal.png",
+    "college": "DePauw University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 39.63942520000001,
+      "lng": -86.8634933
+    }
+  },
+  {
+    "letters": "WCRD",
+    "city": "Muncie",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ball_State_University_seal.svg/150px-Ball_State_University_seal.svg.png",
+    "college": "Ball State University",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 40.2024944,
+      "lng": -85.40582409999999
+    }
+  },
+  {
+    "letters": "WSND",
+    "city": "Notre Dame",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/e2/University_of_Notre_Dame_seal_%282%29.svg/180px-University_of_Notre_Dame_seal_%282%29.svg.png",
+    "college": "Notre Dame University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 41.7050504,
+      "lng": -86.2355439
+    }
+  },
+  {
+    "letters": "WECI",
+    "city": "Richmond",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/1/1f/Earlham_College_Seal.png",
+    "college": "Earlham College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 39.823941,
+      "lng": -84.913241
+    }
+  },
+  {
+    "letters": "WZIS",
+    "city": "Terre Haute",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/89/Indiana_State_University_Seal.svg/150px-Indiana_State_University_Seal.svg.png",
+    "college": "Indiana State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 39.4713985,
+      "lng": -87.40828069999999
+    }
+  },
+  {
+    "letters": "WMHD",
+    "city": "Terre Haute",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/ed/Rose%E2%80%93Hulman_Institute_of_Technology_seal.svg/150px-Rose%E2%80%93Hulman_Institute_of_Technology_seal.svg.png",
+    "college": "Rose-Hulman Institute of Technology",
+    "freq": "(web only)",
+    "location": {
+      "lat": 39.483345,
+      "lng": -87.3241359
+    }
+  },
+  {
+    "letters": "WVUR-FM",
+    "city": "Valparaiso",
+    "state": "Indiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/00/Valparaiso_University_seal.png/175px-Valparaiso_University_seal.png",
+    "college": "Valparaiso University",
+    "freq": "95.1 FM",
+    "location": {
+      "lat": 41.4639394,
+      "lng": -87.04388929999999
+    }
+  },
+  {
+    "letters": "KURE",
+    "city": "Ames",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/80/Iowa_State_University_seal.svg/150px-Iowa_State_University_seal.svg.png",
+    "college": "Iowa State University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 42.0266573,
+      "lng": -93.64645159999999
+    }
+  },
+  {
+    "letters": "KULT-LP",
+    "city": "Cedar Falls",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d3/University_of_Northern_Iowa_Seal.svg/160px-University_of_Northern_Iowa_Seal.svg.png",
+    "college": "University of Northern Iowa",
+    "freq": "94.5 FM",
+    "location": {
+      "lat": 42.5121517,
+      "lng": -92.46464689999999
+    }
+  },
+  {
+    "letters": "KIWR",
+    "city": "Council Bluffs",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/36/Iowa_Western_Community_College_Logo.png/200px-Iowa_Western_Community_College_Logo.png",
+    "college": "Iowa Western Community College",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 41.27290050000001,
+      "lng": -95.8009623
+    }
+  },
+  {
+    "letters": "KWLC",
+    "city": "Decorah",
+    "state": "Iowa",
+    "college": "Luther College",
+    "freq": "1240 AM",
+    "location": {
+      "lat": 43.3147914,
+      "lng": -91.8052049
+    }
+  },
+  {
+    "letters": "KSTM",
+    "city": "Indianola",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/3/35/This_is_College_Hall_located_on_Simpson_College%27s_campus_in_Indianola%2C_Iowa.jpg/300px-This_is_College_Hall_located_on_Simpson_College%27s_campus_in_Indianola%2C_Iowa.jpg",
+    "college": "Simpson College",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 41.3660163,
+      "lng": -93.56297300000001
+    }
+  },
+  {
+    "letters": "KRUI-FM",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/49/University_of_Iowa_seal.svg/150px-University_of_Iowa_seal.svg.png",
+    "college": "University of Iowa",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 41.66270780000001,
+      "lng": -91.5549771
+    }
+  },
+  {
+    "letters": "KWPU",
+    "city": "Oskaloosa",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Spencer_Chapel.jpeg/250px-The_Spencer_Chapel.jpeg",
+    "college": "William Penn University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 41.3087995,
+      "lng": -92.64718599999999
+    }
+  },
+  {
+    "letters": "KMSC-FM",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/67/Morningside_College_Seal.png/150px-Morningside_College_Seal.png",
+    "college": "Morningside University",
+    "freq": "92.9 FM",
+    "location": {
+      "lat": 42.4731744,
+      "lng": -96.3584236
+    }
+  },
+  {
+    "letters": "KJHK",
+    "city": "Lawrence",
+    "state": "Kansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0b/University_of_Kansas_seal.svg/150px-University_of_Kansas_seal.svg.png",
+    "college": "University of Kansas",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 38.9543439,
+      "lng": -95.2557961
+    }
+  },
+  {
+    "letters": "KSDB",
+    "city": "Manhattan",
+    "state": "Kansas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/74/Kansas_State_University_seal.svg/150px-Kansas_State_University_seal.svg.png",
+    "college": "Kansas State University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 39.1974437,
+      "lng": -96.5847249
+    }
+  },
+  {
+    "letters": "KSWC-LP",
+    "city": "Winfield",
+    "state": "Kansas",
+    "college": "Southwestern College",
+    "freq": "94.7 FM",
+    "location": {
+      "lat": 32.6400996,
+      "lng": -116.9978233
+    }
+  },
+  {
+    "letters": "KVCO",
+    "city": "Concordia",
+    "state": "Kansas",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cloud_County_Community_College_%28Geary_County_Campus%29.png/220px-Cloud_County_Community_College_%28Geary_County_Campus%29.png",
+    "college": "Cloud County Community College",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 39.5545501,
+      "lng": -97.6639251
+    }
+  },
+  {
+    "letters": "WEKU",
+    "city": "Richmond",
+    "state": "Kentucky",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/37/Eastern_Kentucky_University_seal.svg/150px-Eastern_Kentucky_University_seal.svg.png",
+    "college": "Eastern Kentucky University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 37.7359731,
+      "lng": -84.2987483
+    }
+  },
+  {
+    "letters": "WWHR",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/15/Western_Kentucky_University_seal.svg/150px-Western_Kentucky_University_seal.svg.png",
+    "college": "Western Kentucky University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 36.9847167,
+      "lng": -86.456
+    }
+  },
+  {
+    "letters": "WRFL",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2d/University_of_Kentucky_seal.svg/180px-University_of_Kentucky_seal.svg.png",
+    "college": "University of Kentucky",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 38.0306511,
+      "lng": -84.5039697
+    }
+  },
+  {
+    "letters": "WWJD",
+    "city": "Pippa Passes",
+    "state": "Kentucky",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Alice_Lloyd_buildings.jpg/220px-Alice_Lloyd_buildings.jpg",
+    "college": "Alice Lloyd College",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 37.3359167,
+      "lng": -82.8735944
+    }
+  },
+  {
+    "letters": "WCCR-LP",
+    "city": "Williamsburg",
+    "state": "Kentucky",
+    "link": "upload.wikimedia.org/wikipedia/en/6/63/University_of_the_Cumberlands_seal.png",
+    "college": "University of the Cumberlands",
+    "freq": "94.5 FM",
+    "location": {
+      "lat": 36.7367315,
+      "lng": -84.1635877
+    }
+  },
+  {
+    "letters": "KLSU",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LSU_Athletics_logo.svg/225px-LSU_Athletics_logo.svg.png",
+    "college": "Louisiana State University Tigers",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 30.4132579,
+      "lng": -91.1800023
+    }
+  },
+  {
+    "letters": "KGRM",
+    "city": "Grambling",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/en/0/00/Grambling_State_University_seal.png",
+    "college": "Grambling State University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 32.5197213,
+      "lng": -92.7179736
+    }
+  },
+  {
+    "letters": "KBYS",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/1f/McNeese_State_University_seal.svg/200px-McNeese_State_University_seal.svg.png",
+    "college": "McNeese State University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 30.1776851,
+      "lng": -93.2152198
+    }
+  },
+  {
+    "letters": "WTUL",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tulane_University_Logo.svg/130px-Tulane_University_Logo.svg.png",
+    "college": "Tulane University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 29.9407282,
+      "lng": -90.12031669999999
+    }
+  },
+  {
+    "letters": "KLPI",
+    "city": "Ruston",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/57/LouisianaTechSeal.png/180px-LouisianaTechSeal.png",
+    "college": "Louisiana Tech University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 32.5299582,
+      "lng": -92.6522174
+    }
+  },
+  {
+    "letters": "KSCL",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "college": "Centenary College of Louisiana",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 32.4847432,
+      "lng": -93.73215560000001
+    }
+  },
+  {
+    "letters": "KNWD",
+    "city": "Natchitoches",
+    "state": "Louisiana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/61/Northwestern_State_University_seal.svg/200px-Northwestern_State_University_seal.svg.png",
+    "college": "Northwestern State University of Louisiana",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 31.7489726,
+      "lng": -93.097876
+    }
+  },
+  {
+    "letters": "WBOR",
+    "city": "Brunswick",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e8/Formal_Seal_of_Bowdoin_College%2C_Brunswick%2C_ME%2C_USA.svg/150px-Formal_Seal_of_Bowdoin_College%2C_Brunswick%2C_ME%2C_USA.svg.png",
+    "college": "Bowdoin College",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 43.9076929,
+      "lng": -69.9639971
+    }
+  },
+  {
+    "letters": "WUMF",
+    "city": "Farmington",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/01/University_of_Maine_at_Farmington_seal.png/150px-University_of_Maine_at_Farmington_seal.png",
+    "college": "University of Maine at Farmington",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 44.6675867,
+      "lng": -70.14744089999999
+    }
+  },
+  {
+    "letters": "WRBC",
+    "city": "Lewiston",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f4/Seal_Bates_College.svg/130px-Seal_Bates_College.svg.png",
+    "college": "Bates College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 44.1057216,
+      "lng": -70.2021865
+    }
+  },
+  {
+    "letters": "WMEB-FM",
+    "city": "Orono",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e5/University_of_Maine_seal.png/150px-University_of_Maine_seal.png",
+    "college": "University of Maine",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 44.901867,
+      "lng": -68.66882509999999
+    }
+  },
+  {
+    "letters": "WUPI",
+    "city": "Presque Isle",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d5/University_of_Maine_at_Presque_Isle_seal.svg/150px-University_of_Maine_at_Presque_Isle_seal.svg.png",
+    "college": "University of Maine at Presque Isle",
+    "freq": "92.1 FM",
+    "location": {
+      "lat": 46.6700959,
+      "lng": -68.0158878
+    }
+  },
+  {
+    "letters": "WMHB",
+    "city": "Waterville",
+    "state": "Maine",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/27/Colby_College_seal.svg/130px-Colby_College_seal.svg.png",
+    "college": "Colby College",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 44.5638691,
+      "lng": -69.6626362
+    }
+  },
+  {
+    "letters": "WJHU",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/09/Johns_Hopkins_University%27s_Academic_Seal.svg/130px-Johns_Hopkins_University%27s_Academic_Seal.svg.png",
+    "college": "Johns Hopkins University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 39.3299013,
+      "lng": -76.6205177
+    }
+  },
+  {
+    "letters": "WLOY (College Station)",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/06/Loyola_University_Maryland_shield.svg/150px-Loyola_University_Maryland_shield.svg.png",
+    "college": "Loyola University Maryland",
+    "freq": "1620 AM",
+    "location": {
+      "lat": 39.3476737,
+      "lng": -76.6172375
+    }
+  },
+  {
+    "letters": "WMUC",
+    "city": "College Park",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3e/University_of_Maryland_seal.svg/150px-University_of_Maryland_seal.svg.png",
+    "college": "University of Maryland, College Park",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 38.9869183,
+      "lng": -76.9425543
+    }
+  },
+  {
+    "letters": "WMTB-FM",
+    "city": "Emmitsburg",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/82/Mount_St._Mary%27s_University_Seal.svg/220px-Mount_St._Mary%27s_University_Seal.svg.png",
+    "college": "Mount St. Mary's University",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 39.6799914,
+      "lng": -77.3486971
+    }
+  },
+  {
+    "letters": "WFWM",
+    "city": "Frostburg",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/6/6f/Frostburg_State_University_seal.png",
+    "college": "Frostburg State University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 39.6498754,
+      "lng": -78.9345609
+    }
+  },
+  {
+    "letters": "WXSU-LP",
+    "city": "Salisbury",
+    "state": "Maryland",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/52/Seal_of_Salisbury_University_%28250x250%29.png/220px-Seal_of_Salisbury_University_%28250x250%29.png",
+    "college": "Salisbury University",
+    "freq": "95.3 FM",
+    "location": {
+      "lat": 38.3453519,
+      "lng": -75.606138
+    }
+  },
+  {
+    "letters": "WAMH",
+    "city": "Amherst",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/65/Amherst_College_Seal.svg/130px-Amherst_College_Seal.svg.png",
+    "college": "Amherst College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 42.3709104,
+      "lng": -72.5170028
+    }
+  },
+  {
+    "letters": "WMUA",
+    "city": "Amherst",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/4f/UMass_Seal_Medium_PMS_202.png/170px-UMass_Seal_Medium_PMS_202.png",
+    "college": "University of Massachusetts Amherst",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 42.3867598,
+      "lng": -72.5300515
+    }
+  },
+  {
+    "letters": "WECB",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/73/Emerson_College_Seal.png/150px-Emerson_College_Seal.png",
+    "college": "Emerson College",
+    "freq": "(web only)",
+    "location": {
+      "lat": 42.3522266,
+      "lng": -71.0658133
+    }
+  },
+  {
+    "letters": "WERS",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/73/Emerson_College_Seal.png/150px-Emerson_College_Seal.png",
+    "college": "Emerson College",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 42.3522266,
+      "lng": -71.0658133
+    }
+  },
+  {
+    "letters": "WRBB",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Northeastern_seal.svg/150px-Northeastern_seal.svg.png",
+    "college": "Northeastern University",
+    "freq": "104.9 FM",
+    "location": {
+      "lat": 42.339904,
+      "lng": -71.0898892
+    }
+  },
+  {
+    "letters": "WZBC",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/00/Boston_College_seal.svg/150px-Boston_College_seal.svg.png",
+    "college": "Boston College",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 42.3355488,
+      "lng": -71.16849450000001
+    }
+  },
+  {
+    "letters": "WTBU",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/140px-Boston_University_seal.svg.png",
+    "college": "Boston University",
+    "freq": "640 AM",
+    "location": {
+      "lat": 42.3504997,
+      "lng": -71.1053991
+    }
+  },
+  {
+    "letters": "WTBU",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boston_University_seal.svg/140px-Boston_University_seal.svg.png",
+    "college": "Boston University",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 42.3504997,
+      "lng": -71.1053991
+    }
+  },
+  {
+    "letters": "WHRB",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3c/Shield_of_Harvard_College.svg/150px-Shield_of_Harvard_College.svg.png",
+    "college": "Harvard College",
+    "freq": "95.3 FM",
+    "location": {
+      "lat": 42.3748446,
+      "lng": -71.1182358
+    }
+  },
+  {
+    "letters": "WMBR",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/150px-MIT_Seal.svg.png",
+    "college": "Massachusetts Institute of Technology",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 42.360091,
+      "lng": -71.09416
+    }
+  },
+  {
+    "letters": "WDJM-FM",
+    "city": "Framingham",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/30/FraminghamUniversityLogo.png/150px-FraminghamUniversityLogo.png",
+    "college": "Framingham State College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 42.298308,
+      "lng": -71.4370588
+    }
+  },
+  {
+    "letters": "WGAO",
+    "city": "Franklin",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/58/Dean_College_seal.svg/160px-Dean_College_seal.svg.png",
+    "college": "Dean College",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 42.084906,
+      "lng": -71.3979611
+    }
+  },
+  {
+    "letters": "WCCH",
+    "city": "Holyoke",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/89/HolyokeCommunityCollege_Seal.svg/150px-HolyokeCommunityCollege_Seal.svg.png",
+    "college": "Holyoke Community College",
+    "freq": "103.5 FM",
+    "location": {
+      "lat": 42.1952603,
+      "lng": -72.6527328
+    }
+  },
+  {
+    "letters": "WUML",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/c7/UMass-Lowell_logo.svg/150px-UMass-Lowell_logo.svg.png",
+    "college": "University of Massachusetts Lowell",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.6552587,
+      "lng": -71.3247164
+    }
+  },
+  {
+    "letters": "WMFO",
+    "city": "Medford",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b1/Tufts_official_seal.svg/150px-Tufts_official_seal.svg.png",
+    "college": "Tufts University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.4085371,
+      "lng": -71.1182729
+    }
+  },
+  {
+    "letters": "WMLN",
+    "city": "Milton",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/47/CurryCollegeShield.jpg/125px-CurryCollegeShield.jpg",
+    "college": "Curry College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.2379943,
+      "lng": -71.1161327
+    }
+  },
+  {
+    "letters": "WLAS-LP",
+    "city": "Newton",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lasell_University_Seal_BLACK.jpg/220px-Lasell_University_Seal_BLACK.jpg",
+    "college": "Lasell University",
+    "freq": "102.9 FM",
+    "location": {
+      "lat": 42.3428915,
+      "lng": -71.2447648
+    }
+  },
+  {
+    "letters": "WJJW",
+    "city": "North Adams",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/74/Massachusetts_College_of_Liberal_Arts_Seal.png/150px-Massachusetts_College_of_Liberal_Arts_Seal.png",
+    "college": "Massachusetts College of Liberal Arts",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 42.691554,
+      "lng": -73.1033372
+    }
+  },
+  {
+    "letters": "WMWM",
+    "city": "Salem",
+    "state": "Massachusetts",
+    "college": "Salem State University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 42.5031455,
+      "lng": -70.8907598
+    }
+  },
+  {
+    "letters": "WMHC",
+    "city": "South Hadley",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/1b/Mount_Holyoke_College_seal.svg/150px-Mount_Holyoke_College_seal.svg.png",
+    "college": "Mount Holyoke College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.255425,
+      "lng": -72.5728843
+    }
+  },
+  {
+    "letters": "WBRS",
+    "city": "Waltham",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/32/Brandeis_University_seal.svg/150px-Brandeis_University_seal.svg.png",
+    "college": "Brandeis University",
+    "freq": "100.1 FM",
+    "location": {
+      "lat": 42.365357,
+      "lng": -71.2586437
+    }
+  },
+  {
+    "letters": "WZLY",
+    "city": "Wellesley",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6b/Formal_Seal_of_Wellesley_College%2C_Wellesley%2C_MA%2C_USA.svg/150px-Formal_Seal_of_Wellesley_College%2C_Wellesley%2C_MA%2C_USA.svg.png",
+    "college": "Wellesley College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.2935733,
+      "lng": -71.3059277
+    }
+  },
+  {
+    "letters": "WSKB",
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/fe/Seal_of_Westfield_State_University.svg/150px-Seal_of_Westfield_State_University.svg.png",
+    "college": "Westfield State University",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 42.1314735,
+      "lng": -72.79445439999999
+    }
+  },
+  {
+    "letters": "WCFM",
+    "city": "Williamstown",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/19/Williams_College_Seal.svg/150px-Williams_College_Seal.svg.png",
+    "college": "Williams College",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 42.7128843,
+      "lng": -73.20313949999999
+    }
+  },
+  {
+    "letters": "WCHC",
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/20/College_of_the_Holy_Cross_seal.svg/175px-College_of_the_Holy_Cross_seal.svg.png",
+    "college": "College of the Holy Cross",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 42.2392391,
+      "lng": -71.8079608
+    }
+  },
+  {
+    "letters": "WVAC-FM",
+    "city": "Adrian",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0f/Adrian_College_seal.svg/220px-Adrian_College_seal.svg.png",
+    "college": "Adrian College",
+    "freq": "107.9 FM",
+    "location": {
+      "lat": 41.8987054,
+      "lng": -84.05924139999999
+    }
+  },
+  {
+    "letters": "WLBN",
+    "city": "Albion",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0d/Albion_College_Shield.png/125px-Albion_College_Shield.png",
+    "college": "Albion College",
+    "freq": "1590 AM",
+    "location": {
+      "lat": 42.2440064,
+      "lng": -84.7451775
+    }
+  },
+  {
+    "letters": "WGVU-FM",
+    "city": "Allendale",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3d/Grand-Valley-State-University-Seal.svg/200px-Grand-Valley-State-University-Seal.svg.png",
+    "college": "Grand Valley State University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 42.9641221,
+      "lng": -85.8890404
+    }
+  },
+  {
+    "letters": "WCBN-FM",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/9/93/Seal_of_the_University_of_Michigan.svg/150px-Seal_of_the_University_of_Michigan.svg.png",
+    "college": "University of Michigan",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 42.277145,
+      "lng": -83.7382071
+    }
+  },
+  {
+    "letters": "WXOU",
+    "city": "Auburn Hills",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a2/Oakland_University_seal.svg/150px-Oakland_University_seal.svg.png",
+    "college": "Oakland University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 42.6678782,
+      "lng": -83.20823469999999
+    }
+  },
+  {
+    "letters": "WHFR",
+    "city": "Dearborn",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0c/Henry_ford_cc.JPG/150px-Henry_ford_cc.JPG",
+    "college": "Henry Ford Community College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 42.3242969,
+      "lng": -83.2376024
+    }
+  },
+  {
+    "letters": "WDBM",
+    "city": "East Lansing",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/53/Michigan_State_University_seal.svg/150px-Michigan_State_University_seal.svg.png",
+    "college": "Michigan State University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 42.7250725,
+      "lng": -84.47908269999999
+    }
+  },
+  {
+    "letters": "WKUF-LP",
+    "city": "Flint",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/7/76/KetteringSeal.png",
+    "college": "Kettering University",
+    "freq": "94.3 FM",
+    "location": {
+      "lat": 43.0125473,
+      "lng": -83.7126198
+    }
+  },
+  {
+    "letters": "WMTU",
+    "city": "Houghton",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/10/Seal_of_Michigan_Technological_University.svg/180px-Seal_of_Michigan_Technological_University.svg.png",
+    "college": "Michigan Technological University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 47.1158036,
+      "lng": -88.5448074
+    }
+  },
+  {
+    "letters": "WIDR",
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/1e/Western_Michigan_University_seal.svg/180px-Western_Michigan_University_seal.svg.png",
+    "college": "Western Michigan University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 42.2837337,
+      "lng": -85.6102506
+    }
+  },
+  {
+    "letters": "WJMD",
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/dc/Kcollegeseal.png/150px-Kcollegeseal.png",
+    "college": "Kalamazoo College",
+    "freq": "104.7 FM",
+    "location": {
+      "lat": 42.290035,
+      "lng": -85.598145
+    }
+  },
+  {
+    "letters": "WMUK",
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/1e/Western_Michigan_University_seal.svg/180px-Western_Michigan_University_seal.svg.png",
+    "college": "Western Michigan University",
+    "freq": "102.1 FM",
+    "location": {
+      "lat": 42.2837337,
+      "lng": -85.6102506
+    }
+  },
+  {
+    "letters": "WUPX",
+    "city": "Marquette",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/14/Northern-Michigan-University-Seal.svg/180px-Northern-Michigan-University-Seal.svg.png",
+    "college": "Northern Michigan University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 46.5601965,
+      "lng": -87.4076051
+    }
+  },
+  {
+    "letters": "WMHW",
+    "city": "Mt. Pleasant",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a6/Central-Michigan-University-seal.svg/180px-Central-Michigan-University-seal.svg.png",
+    "college": "Central Michigan University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 43.5822124,
+      "lng": -84.77625739999999
+    }
+  },
+  {
+    "letters": "WLSO (Lake Radio)",
+    "city": "Sault Sainte Marie",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/87/Lake_Superior_State_University_Seal.svg/150px-Lake_Superior_State_University_Seal.svg.png",
+    "college": "Lake Superior State University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 46.4918881,
+      "lng": -84.36387739999999
+    }
+  },
+  {
+    "letters": "WEMU",
+    "city": "Ypsilanti",
+    "state": "Michigan",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/45/Eastern_Michigan_University_seal.svg/150px-Eastern_Michigan_University_seal.svg.png",
+    "college": "Eastern Michigan University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 42.2506803,
+      "lng": -83.624089
+    }
+  },
+  {
+    "letters": "KJNB",
+    "city": "Collegeville",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/60/College_of_Saint_Benedict_and_Saint_John%27s_University_seals.svg/220px-College_of_Saint_Benedict_and_Saint_John%27s_University_seals.svg.png",
+    "college": "College of Saint Benedict and Saint John's University",
+    "freq": "(unknown)",
+    "location": null
+  },
+  {
+    "letters": "KMSU",
+    "city": "Mankato",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2e/Minnesota_State_University%2C_Mankato_seal.svg/180px-Minnesota_State_University%2C_Mankato_seal.svg.png",
+    "college": "Minnesota State University, Mankato",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 44.1451163,
+      "lng": -93.99699009999999
+    }
+  },
+  {
+    "letters": "KUOM",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/8/86/Seal_of_the_University_of_Minnesota.svg/170px-Seal_of_the_University_of_Minnesota.svg.png",
+    "college": "University of Minnesota",
+    "freq": "770 AM",
+    "location": {
+      "lat": 44.9753541,
+      "lng": -93.2330739
+    }
+  },
+  {
+    "letters": "KRLX",
+    "city": "Northfield",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/41/Combined_logo_and_seal_for_Carleton_College.png/240px-Combined_logo_and_seal_for_Carleton_College.png",
+    "college": "Carleton College",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 44.4613633,
+      "lng": -93.1559742
+    }
+  },
+  {
+    "letters": "KTIS (AM)",
+    "city": "Saint Paul",
+    "state": "Minnesota",
+    "college": "University of Northwestern – St. Paul",
+    "freq": "900 AM",
+    "location": {
+      "lat": 45.031563,
+      "lng": -93.168573
+    }
+  },
+  {
+    "letters": "KTIS-FM",
+    "city": "Saint Paul",
+    "state": "Minnesota",
+    "college": "University of Northwestern – St. Paul",
+    "freq": "98.5 FM",
+    "location": {
+      "lat": 45.031563,
+      "lng": -93.168573
+    }
+  },
+  {
+    "letters": "KVSC-FM",
+    "city": "St. Cloud",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d1/St._Cloud_State_University_seal.svg/200px-St._Cloud_State_University_seal.svg.png",
+    "college": "St. Cloud State University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 45.548639,
+      "lng": -94.1515367
+    }
+  },
+  {
+    "letters": "WMCN",
+    "city": "Saint Paul",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6e/Macalester_seal_hires.png/150px-Macalester_seal_hires.png",
+    "college": "Macalester College",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 44.9379079,
+      "lng": -93.16848039999999
+    }
+  },
+  {
+    "letters": "KQAL",
+    "city": "Winona",
+    "state": "Minnesota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/05/Winona_State_University_logo.svg/130px-Winona_State_University_logo.svg.png",
+    "college": "Winona State University",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 44.0473997,
+      "lng": -91.6432837
+    }
+  },
+  {
+    "letters": "WEXR",
+    "city": "Meridian",
+    "state": "Mississippi",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/41/Meridian_Community_College.JPG/250px-Meridian_Community_College.JPG",
+    "college": "Meridian Community College",
+    "freq": "106.9 FM",
+    "location": {
+      "lat": 32.3676949,
+      "lng": -88.7319036
+    }
+  },
+  {
+    "letters": "WUSM-FM",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b9/University_of_Southern_Mississippi_seal.svg/150px-University_of_Southern_Mississippi_seal.svg.png",
+    "college": "University of Southern Mississippi",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 31.3298668,
+      "lng": -89.33345349999999
+    }
+  },
+  {
+    "letters": "WUMS (Rebel Radio)",
+    "city": "Oxford",
+    "state": "Mississippi",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b5/University_of_Mississippi_seal.svg/150px-University_of_Mississippi_seal.svg.png",
+    "college": "University of Mississippi",
+    "freq": "92.1 FM",
+    "location": {
+      "lat": 34.3662492,
+      "lng": -89.5379687
+    }
+  },
+  {
+    "letters": "WMSV",
+    "city": "Starkville",
+    "state": "Mississippi",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0f/Mississippi_State_University_seal.svg/150px-Mississippi_State_University_seal.svg.png",
+    "college": "Mississippi State University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 33.4555279,
+      "lng": -88.7903868
+    }
+  },
+  {
+    "letters": "KCOU",
+    "city": "Columbia",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b8/University_of_Missouri_seal.svg/150px-University_of_Missouri_seal.svg.png",
+    "college": "University of Missouri",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 38.9403808,
+      "lng": -92.32773750000001
+    }
+  },
+  {
+    "letters": "KTRM",
+    "city": "Kirksville",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/70/Truman_State_University_seal.png/180px-Truman_State_University_seal.png",
+    "college": "Truman State University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 40.1831629,
+      "lng": -92.5809621
+    }
+  },
+  {
+    "letters": "KGSP",
+    "city": "Parkville",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/de/Park_University_seal.svg/200px-Park_University_seal.svg.png",
+    "college": "Park University",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 39.191576,
+      "lng": -94.6755573
+    }
+  },
+  {
+    "letters": "KMNR",
+    "city": "Rolla",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b8/University_of_Missouri_seal.svg/180px-University_of_Missouri_seal.svg.png",
+    "college": "Missouri University of Science and Technology",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 37.9537078,
+      "lng": -91.7756271
+    }
+  },
+  {
+    "letters": "KMST KWMU",
+    "city": "Rolla St. Louis",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b8/University_of_Missouri_seal.svg/150px-University_of_Missouri_seal.svg.png",
+    "college": "University of Missouri-St. Louis",
+    "freq": "88.5 FM\n90.7 FM",
+    "location": {
+      "lat": 38.7092187,
+      "lng": -90.3083223
+    }
+  },
+  {
+    "letters": "KWUR",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d7/WashU_St._Louis_seal.svg/150px-WashU_St._Louis_seal.svg.png",
+    "college": "Washington University in St. Louis",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 38.6487895,
+      "lng": -90.31079620000001
+    }
+  },
+  {
+    "letters": "KSLU",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6d/Saint_Louis_University_seal.png/150px-Saint_Louis_University_seal.png",
+    "college": "Saint Louis University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 38.6348237,
+      "lng": -90.23364079999999
+    }
+  },
+  {
+    "letters": "KBGA",
+    "city": "Missoula",
+    "state": "Montana",
+    "link": "upload.wikimedia.org/wikipedia/en/e/e9/University_of_Montana_seal.png",
+    "college": "University of Montana",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 46.8619309,
+      "lng": -113.9845969
+    }
+  },
+  {
+    "letters": "KNMC",
+    "city": "Havre",
+    "state": "Montana",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/60/MSU_Northern_Logo.png/150px-MSU_Northern_Logo.png",
+    "college": "Montana State University-Northern",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 48.5408648,
+      "lng": -109.6880953
+    }
+  },
+  {
+    "letters": "KCVG",
+    "city": "Hastings",
+    "state": "Nebraska",
+    "college": "Hastings College",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 40.59067050000001,
+      "lng": -98.3745939
+    }
+  },
+  {
+    "letters": "KLPR",
+    "city": "Kearney",
+    "state": "Nebraska",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Seal_of_the_University_of_Nebraska.svg/180px-Seal_of_the_University_of_Nebraska.svg.png",
+    "college": "University of Nebraska at Kearney",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 40.7011879,
+      "lng": -99.1014292
+    }
+  },
+  {
+    "letters": "KRNU",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "college": "University of Nebraska–Lincoln",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 40.8201966,
+      "lng": -96.70047629999999
+    }
+  },
+  {
+    "letters": "WUNH",
+    "city": "Durham",
+    "state": "New Hampshire",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/50/UNewHampshire_seal.png/150px-UNewHampshire_seal.png",
+    "college": "University of New Hampshire",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 43.138948,
+      "lng": -70.9370252
+    }
+  },
+  {
+    "letters": "WKNH",
+    "city": "Keene",
+    "state": "New Hampshire",
+    "college": "Keene State College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 42.9254277,
+      "lng": -72.2803457
+    }
+  },
+  {
+    "letters": "WPCR-FM",
+    "city": "Plymouth",
+    "state": "New Hampshire",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d7/Plymouth_State_University_Seal.jpg/220px-Plymouth_State_University_Seal.jpg",
+    "college": "Plymouth State University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 43.7614453,
+      "lng": -71.68916050000001
+    }
+  },
+  {
+    "letters": "WGLS-FM",
+    "city": "Glassboro",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6c/Rowan_University_seal.svg/150px-Rowan_University_seal.svg.png",
+    "college": "Rowan University",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 39.7099689,
+      "lng": -75.1191932
+    }
+  },
+  {
+    "letters": "WRML-LP",
+    "city": "Hamilton",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Atlantic_Cape_CC.jpg/220px-Atlantic_Cape_CC.jpg",
+    "college": "Atlantic Cape Community College",
+    "freq": "107.9 FM",
+    "location": {
+      "lat": 39.4614681,
+      "lng": -74.6811865
+    }
+  },
+  {
+    "letters": "WRRC",
+    "city": "Lawrenceville",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c2/Rider_University_shield.svg/150px-Rider_University_shield.svg.png",
+    "college": "Rider University",
+    "freq": "107.7 FM",
+    "location": {
+      "lat": 40.2811583,
+      "lng": -74.7407633
+    }
+  },
+  {
+    "letters": "WRSU-FM",
+    "city": "New Brunswick",
+    "state": "New Jersey",
+    "college": "Rutgers University–New Brunswick",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 40.5008405,
+      "lng": -74.44741739999999
+    }
+  },
+  {
+    "letters": "WVPH",
+    "city": "Piscataway",
+    "state": "New Jersey",
+    "college": "Rutgers University–New Brunswick",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 40.5008405,
+      "lng": -74.44741739999999
+    }
+  },
+  {
+    "letters": "WLFR",
+    "city": "Pomona",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/ab/Stocktonseal.png/150px-Stocktonseal.png",
+    "college": "Stockton University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.49302,
+      "lng": -74.5338239
+    }
+  },
+  {
+    "letters": "WPRB",
+    "city": "Princeton",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Princeton_seal.svg/140px-Princeton_seal.svg.png",
+    "college": "Princeton University",
+    "freq": "103.3 FM",
+    "location": {
+      "lat": 40.3430942,
+      "lng": -74.65507389999999
+    }
+  },
+  {
+    "letters": "WSOU",
+    "city": "South Orange",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/03/Seton_Hall_University_Seal.svg/130px-Seton_Hall_University_Seal.svg.png",
+    "college": "Seton Hall University",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 40.7430841,
+      "lng": -74.246082
+    }
+  },
+  {
+    "letters": "WTSR",
+    "city": "Trenton",
+    "state": "New Jersey",
+    "college": "The College of New Jersey",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 40.268479,
+      "lng": -74.77763329999999
+    }
+  },
+  {
+    "letters": "WKNJ",
+    "city": "Union",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kean_Seal-2018.png/200px-Kean_Seal-2018.png",
+    "college": "Kean University",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 40.6801659,
+      "lng": -74.23311
+    }
+  },
+  {
+    "letters": "WMSC (FM)",
+    "city": "Upper Montclair",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/68/Montclair_State_University_logo.svg/220px-Montclair_State_University_logo.svg.png",
+    "college": "Montclair State University",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 40.8666026,
+      "lng": -74.1976433
+    }
+  },
+  {
+    "letters": "WPSC",
+    "city": "Wayne",
+    "state": "New Jersey",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/ca/WP-Logo.png/220px-WP-Logo.png",
+    "college": "William Paterson University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 40.9476318,
+      "lng": -74.19677949999999
+    }
+  },
+  {
+    "letters": "KRUX",
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/cf/NMSU_seal.png/180px-NMSU_seal.png",
+    "college": "New Mexico State University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 32.2792887,
+      "lng": -106.7491391
+    }
+  },
+  {
+    "letters": "WCDB",
+    "city": "Albany",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/06/University_at_Albany_Seal.png/150px-University_at_Albany_Seal.png",
+    "college": "University at Albany, SUNY",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 42.6850273,
+      "lng": -73.8247903
+    }
+  },
+  {
+    "letters": "WALF",
+    "city": "Alfred",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/06/AlfredUniversitylogo.png/220px-AlfredUniversitylogo.png",
+    "college": "Alfred University",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 42.2551888,
+      "lng": -77.78583250000001
+    }
+  },
+  {
+    "letters": "WXBC",
+    "city": "Annandale-on-Hudson",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2f/Bard_College_Seal.svg/110px-Bard_College_Seal.svg.png",
+    "college": "Bard College",
+    "freq": "(web only)",
+    "location": {
+      "lat": 42.0230728,
+      "lng": -73.909314
+    }
+  },
+  {
+    "letters": "WHRW-FM",
+    "city": "Binghamton",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/67/State_University_of_New_York_at_Binghamton_Seal.png/180px-State_University_of_New_York_at_Binghamton_Seal.png",
+    "college": "Binghamton University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 42.09868669999999,
+      "lng": -75.91797380000001
+    }
+  },
+  {
+    "letters": "WBSU",
+    "city": "Brockport",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/91/SUNY_Brockport_logo_2022.jpg/250px-SUNY_Brockport_logo_2022.jpg",
+    "college": "State University of New York at Brockport",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 43.2104711,
+      "lng": -77.9507866
+    }
+  },
+  {
+    "letters": "WSLC",
+    "city": "Bronxville",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sarah_Lawrence_College_Logo.svg/150px-Sarah_Lawrence_College_Logo.svg.png",
+    "college": "Sarah Lawrence College",
+    "freq": "94.9 FM",
+    "location": {
+      "lat": 40.93459,
+      "lng": -73.8455821
+    }
+  },
+  {
+    "letters": "WCWP",
+    "city": "Brookville",
+    "state": "New York",
+    "college": "LIU Post (formerly C. W. Post College)",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 40.8203155,
+      "lng": -73.59843049999999
+    }
+  },
+  {
+    "letters": "WBNY",
+    "city": "Buffalo",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/58/Elmwood_entrance%2C_Buffalo_State_University.jpg/220px-Elmwood_entrance%2C_Buffalo_State_University.jpg",
+    "college": "Buffalo State University",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 42.9325073,
+      "lng": -78.87901889999999
+    }
+  },
+  {
+    "letters": "WSUC",
+    "city": "Cortland",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d8/SUNY_Cortland_seal.svg/150px-SUNY_Cortland_seal.svg.png",
+    "college": "State University of New York at Cortland",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 42.599001,
+      "lng": -76.187797
+    }
+  },
+  {
+    "letters": "WHPC",
+    "city": "Garden City",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5a/Seal_of_Nassau_Community_College.svg/150px-Seal_of_Nassau_Community_College.svg.png",
+    "college": "Nassau Community College",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 40.7291037,
+      "lng": -73.5940363
+    }
+  },
+  {
+    "letters": "WBAU",
+    "city": "Garden City",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c1/Adelphi_University_Seal.svg/220px-Adelphi_University_Seal.svg.png",
+    "college": "Adelphi University",
+    "freq": "(defunct)",
+    "location": {
+      "lat": 40.7200034,
+      "lng": -73.6521126
+    }
+  },
+  {
+    "letters": "WEOS",
+    "city": "Geneva",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/af/Hobart_%26_William_Smith_Colleges_seals.png/260px-Hobart_%26_William_Smith_Colleges_seals.png",
+    "college": "Hobart and William Smith Colleges",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 42.8581453,
+      "lng": -76.9866497
+    }
+  },
+  {
+    "letters": "WGSU",
+    "city": "Geneseo",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d1/SUNY_Geneseo_seal.svg/150px-SUNY_Geneseo_seal.svg.png",
+    "college": "State University of New York at Geneseo",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 42.79600689999999,
+      "lng": -77.82386269999999
+    }
+  },
+  {
+    "letters": "WRHU",
+    "city": "Hempstead",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d8/HUSeal.png/150px-HUSeal.png",
+    "college": "Hofstra University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 40.7168988,
+      "lng": -73.59903779999999
+    }
+  },
+  {
+    "letters": "WICB",
+    "city": "Ithaca",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/32/Formal_Seal_of_Ithaca_College%2C_Ithaca%2C_NY%2C_USA.svg/130px-Formal_Seal_of_Ithaca_College%2C_Ithaca%2C_NY%2C_USA.svg.png",
+    "college": "Ithaca College",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 42.4199229,
+      "lng": -76.4969344
+    }
+  },
+  {
+    "letters": "WVBR-FM",
+    "city": "Ithaca",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cornell_University_seal.svg/130px-Cornell_University_seal.svg.png",
+    "college": "Cornell University",
+    "freq": "93.5 FM",
+    "location": {
+      "lat": 42.4534492,
+      "lng": -76.4735027
+    }
+  },
+  {
+    "letters": "WVCR-FM",
+    "city": "Loudonville",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Seal_Br_Ed.png/150px-Seal_Br_Ed.png",
+    "college": "Siena College",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 42.71894959999999,
+      "lng": -73.7513323
+    }
+  },
+  {
+    "letters": "WFNP",
+    "city": "New Paltz",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d6/SUNY_New_Paltz_seal.svg/150px-SUNY_New_Paltz_seal.svg.png",
+    "college": "State University of New York at New Paltz",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 41.73856199999999,
+      "lng": -74.085197
+    }
+  },
+  {
+    "letters": "WKCR",
+    "city": "New York City",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Columbia_coat_of_arms_no_crest.png/180px-Columbia_coat_of_arms_no_crest.png",
+    "college": "Columbia University",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 40.8075355,
+      "lng": -73.9625727
+    }
+  },
+  {
+    "letters": "WFUV",
+    "city": "New York City",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3e/Fordham_University_seal.svg/150px-Fordham_University_seal.svg.png",
+    "college": "Fordham University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 40.8614567,
+      "lng": -73.8852771
+    }
+  },
+  {
+    "letters": "WNYU",
+    "city": "New York City",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/16/New_York_University_Seal.svg/150px-New_York_University_Seal.svg.png",
+    "college": "New York University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 40.7127753,
+      "lng": -74.0059728
+    }
+  },
+  {
+    "letters": "WNYT radio",
+    "city": "Old Westbury",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/56/New_York_Institute_of_Technology_seal.svg/150px-New_York_Institute_of_Technology_seal.svg.png",
+    "college": "New York Institute of Technology",
+    "freq": "(web only)",
+    "location": null
+  },
+  {
+    "letters": "WSBU-FM",
+    "city": "Olean",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/4/45/Sbulogo.png",
+    "college": "St. Bonaventure University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 42.07857680000001,
+      "lng": -78.4829439
+    }
+  },
+  {
+    "letters": "WONY",
+    "city": "Oneonta",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e8/SUNY_Oneonta_seal.svg/150px-SUNY_Oneonta_seal.svg.png",
+    "college": "State University of New York at Oneonta",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 42.4692143,
+      "lng": -75.0632511
+    }
+  },
+  {
+    "letters": "WNYO-FM",
+    "city": "Oswego",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/07/SUNY_Oswego_seal.svg/150px-SUNY_Oswego_seal.svg.png",
+    "college": "State University of New York at Oswego",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 43.45085090000001,
+      "lng": -76.54343779999999
+    }
+  },
+  {
+    "letters": "WTSC",
+    "city": "Potsdam",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f1/Clarkson-seal.png/150px-Clarkson-seal.png",
+    "college": "Clarkson University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 44.6639493,
+      "lng": -74.9990832
+    }
+  },
+  {
+    "letters": "WVKR",
+    "city": "Poughkeepsie",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c7/Vassar_College_Seal.svg/150px-Vassar_College_Seal.svg.png",
+    "college": "Vassar College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 41.6868243,
+      "lng": -73.895719
+    }
+  },
+  {
+    "letters": "WPSR",
+    "city": "Purchase",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/7/75/School_logo_%28State_University_of_New_York_at_Purchase%29.jpg/260px-School_logo_%28State_University_of_New_York_at_Purchase%29.jpg",
+    "college": "State University of New York at Purchase",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 41.0470553,
+      "lng": -73.700419
+    }
+  },
+  {
+    "letters": "WFTU",
+    "city": "Riverhead",
+    "state": "New York",
+    "college": "Five Towns College",
+    "freq": "1570 AM",
+    "location": {
+      "lat": 40.7945036,
+      "lng": -73.368475
+    }
+  },
+  {
+    "letters": "WITR",
+    "city": "Rochester",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/49/Rochester_Institute_of_Technology_Seal_%282018%29.svg/150px-Rochester_Institute_of_Technology_Seal_%282018%29.svg.png",
+    "college": "Rochester Institute of Technology",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 43.0848486,
+      "lng": -77.6715353
+    }
+  },
+  {
+    "letters": "WRUR",
+    "city": "Rochester",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c8/University_of_Rochester_seal.svg/150px-University_of_Rochester_seal.svg.png",
+    "college": "University of Rochester",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 43.1305531,
+      "lng": -77.6260033
+    }
+  },
+  {
+    "letters": "WRUC",
+    "city": "Schenectady",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/a/aa/UnionCollegeSeal.svg/150px-UnionCollegeSeal.svg.png",
+    "college": "Union College",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 42.8179321,
+      "lng": -73.9294347
+    }
+  },
+  {
+    "letters": "WUSB",
+    "city": "Stony Brook",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/1d/Stony_Brook_University_seal.svg/150px-Stony_Brook_University_seal.svg.png",
+    "college": "Stony Brook University",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 40.90413849999999,
+      "lng": -73.1237618
+    }
+  },
+  {
+    "letters": "WAER",
+    "city": "Syracuse",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bf/Syracuse_University_seal.svg/150px-Syracuse_University_seal.svg.png",
+    "college": "Syracuse University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 43.0481221,
+      "lng": -76.14742439999999
+    }
+  },
+  {
+    "letters": "WERW",
+    "city": "Syracuse",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bf/Syracuse_University_seal.svg/150px-Syracuse_University_seal.svg.png",
+    "college": "Syracuse University",
+    "freq": "1670 AM",
+    "location": {
+      "lat": 43.0481221,
+      "lng": -76.14742439999999
+    }
+  },
+  {
+    "letters": "WJPZ",
+    "city": "Syracuse",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bf/Syracuse_University_seal.svg/150px-Syracuse_University_seal.svg.png",
+    "college": "Syracuse University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 43.0481221,
+      "lng": -76.14742439999999
+    }
+  },
+  {
+    "letters": "WLMU",
+    "city": "Syracuse",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8a/LeMoyneOwenCollege_Logo.svg/250px-LeMoyneOwenCollege_Logo.svg.png",
+    "college": "LeMoyne College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 43.0497018,
+      "lng": -76.0855042
+    }
+  },
+  {
+    "letters": "WRPI",
+    "city": "Troy",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rensselaer_Polytechnic_Institute_coat_of_arms.svg/130px-Rensselaer_Polytechnic_Institute_coat_of_arms.svg.png",
+    "college": "Rensselaer Polytechnic Institute",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 42.7297628,
+      "lng": -73.67888839999999
+    }
+  },
+  {
+    "letters": "WPNR",
+    "city": "Utica",
+    "state": "New York",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/16/Utica_College_Seal.png/175px-Utica_College_Seal.png",
+    "college": "Utica University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 43.0949906,
+      "lng": -75.2711748
+    }
+  },
+  {
+    "letters": "WASU-FM",
+    "city": "Boone",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/16/Appalachian_State_University_logo_2.png/150px-Appalachian_State_University_logo_2.png",
+    "college": "Appalachian State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 36.21356280000001,
+      "lng": -81.68432179999999
+    }
+  },
+  {
+    "letters": "WXYC",
+    "city": "Chapel Hill",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5c/University_of_North_Carolina_at_Chapel_Hill_seal.svg/190px-University_of_North_Carolina_at_Chapel_Hill_seal.svg.png",
+    "college": "University of North Carolina at Chapel Hill",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 35.9049122,
+      "lng": -79.0469134
+    }
+  },
+  {
+    "letters": "WWCU",
+    "city": "Cullowhee",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/48/Western_Carolina_University_seal.png/150px-Western_Carolina_University_seal.png",
+    "college": "Western Carolina University",
+    "freq": "95.3 FM",
+    "location": {
+      "lat": 35.3090108,
+      "lng": -83.1863612
+    }
+  },
+  {
+    "letters": "WXDU-FM",
+    "city": "Durham",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Duke_University_Seal.jpg/180px-Duke_University_Seal.jpg",
+    "college": "Duke University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 36.0014258,
+      "lng": -78.9382286
+    }
+  },
+  {
+    "letters": "WSOE",
+    "city": "Elon",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f0/Elon_University_seal.svg/150px-Elon_University_seal.svg.png",
+    "college": "Elon University",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 36.1028244,
+      "lng": -79.5023649
+    }
+  },
+  {
+    "letters": "WNAA",
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/2/2a/Logo_NCAT_w158.png",
+    "college": "North Carolina A&T State University",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 36.0770034,
+      "lng": -79.7718199
+    }
+  },
+  {
+    "letters": "WQFS",
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/fa/Guilford_College_emblem_%28full%29.svg/150px-Guilford_College_emblem_%28full%29.svg.png",
+    "college": "Guilford College",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 36.0917827,
+      "lng": -79.8887036
+    }
+  },
+  {
+    "letters": "WUAG",
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e8/University_of_North_Carolina_at_Greensboro_seal.svg/150px-University_of_North_Carolina_at_Greensboro_seal.svg.png",
+    "college": "University of North Carolina at Greensboro",
+    "freq": "103.1 FM",
+    "location": {
+      "lat": 36.0689296,
+      "lng": -79.8101976
+    }
+  },
+  {
+    "letters": "WKNC-FM",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/24/North_Carolina_State_University_seal.svg/150px-North_Carolina_State_University_seal.svg.png",
+    "college": "North Carolina State University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 35.7850744,
+      "lng": -78.6812824
+    }
+  },
+  {
+    "letters": "WNCW",
+    "city": "Spindale",
+    "state": "North Carolina",
+    "college": "Isothermal Community College",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 35.3377898,
+      "lng": -81.91370169999999
+    }
+  },
+  {
+    "letters": "WFDD",
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0a/Wake_Forest_University_seal.svg/150px-Wake_Forest_University_seal.svg.png",
+    "college": "Wake Forest University",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 36.1354887,
+      "lng": -80.2792887
+    }
+  },
+  {
+    "letters": "WSNC",
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8d/Winston-Salem_State_University_seal.svg/175px-Winston-Salem_State_University_seal.svg.png",
+    "college": "Winston-Salem State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 36.0898268,
+      "lng": -80.22504359999999
+    }
+  },
+  {
+    "letters": "KNDS-LP",
+    "city": "Fargo",
+    "state": "North Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/20/North_Dakota_State_University_seal.svg/150px-North_Dakota_State_University_seal.svg.png",
+    "college": "North Dakota State University",
+    "freq": "96.3 FM",
+    "location": {
+      "lat": 46.8977528,
+      "lng": -96.8024367
+    }
+  },
+  {
+    "letters": "KFJM",
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/0/08/UNDseal.png",
+    "college": "University of North Dakota",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 47.922891,
+      "lng": -97.0768014
+    }
+  },
+  {
+    "letters": "WZIP",
+    "city": "Akron",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b0/University_of_Akron_seal.svg/150px-University_of_Akron_seal.svg.png",
+    "college": "University of Akron",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.0753688,
+      "lng": -81.5123424
+    }
+  },
+  {
+    "letters": "WRDL",
+    "city": "Ashland",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/74/Ashland_University_seal.png/150px-Ashland_University_seal.png",
+    "college": "Ashland University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 40.8617571,
+      "lng": -82.3231533
+    }
+  },
+  {
+    "letters": "WBGU (FM)",
+    "city": "Bowling Green",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a3/Bowling_Green_State_University_seal.svg/150px-Bowling_Green_State_University_seal.svg.png",
+    "college": "Bowling Green State University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.3794679,
+      "lng": -83.6301261
+    }
+  },
+  {
+    "letters": "WFAL Falcon Radio",
+    "city": "Bowling Green",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a3/Bowling_Green_State_University_seal.svg/150px-Bowling_Green_State_University_seal.svg.png",
+    "college": "Bowling Green State University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 41.3794679,
+      "lng": -83.6301261
+    }
+  },
+  {
+    "letters": "WBWC",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c1/Baldwin_Wallace_University_seal.svg/150px-Baldwin_Wallace_University_seal.svg.png",
+    "college": "Baldwin-Wallace College",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 41.37111650000001,
+      "lng": -81.8478088
+    }
+  },
+  {
+    "letters": "WCSB",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/c9/Cleveland_State_University_logo.png/150px-Cleveland_State_University_logo.png",
+    "college": "Cleveland State University",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 41.5027643,
+      "lng": -81.67442299999999
+    }
+  },
+  {
+    "letters": "WJCU",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6d/Jcu_seal_small.jpg/150px-Jcu_seal_small.jpg",
+    "college": "John Carroll University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 41.4905602,
+      "lng": -81.5297689
+    }
+  },
+  {
+    "letters": "WRUW",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/08/Case_Western_Reserve_University_seal.svg/150px-Case_Western_Reserve_University_seal.svg.png",
+    "college": "Case Western Reserve University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 41.5043413,
+      "lng": -81.6083838
+    }
+  },
+  {
+    "letters": "WOSU-FM",
+    "city": "Columbus",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e1/Ohio_State_University_seal.svg/150px-Ohio_State_University_seal.svg.png",
+    "college": "Ohio State University",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 40.0060889,
+      "lng": -83.0282624
+    }
+  },
+  {
+    "letters": "WXCU",
+    "city": "Columbus",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/58/Capital_University_seal.svg/150px-Capital_University_seal.svg.png",
+    "college": "Capital University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 39.95510489999999,
+      "lng": -82.9375379
+    }
+  },
+  {
+    "letters": "WUDR",
+    "city": "Dayton",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/02/University_of_Dayton.svg/240px-University_of_Dayton.svg.png",
+    "college": "University of Dayton",
+    "freq": "98.1 FM",
+    "location": {
+      "lat": 39.7401454,
+      "lng": -84.17904449999999
+    }
+  },
+  {
+    "letters": "WUDR",
+    "city": "Dayton",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/02/University_of_Dayton.svg/240px-University_of_Dayton.svg.png",
+    "college": "University of Dayton",
+    "freq": "99.5 FM",
+    "location": {
+      "lat": 39.7401454,
+      "lng": -84.17904449999999
+    }
+  },
+  {
+    "letters": "WWSU",
+    "city": "Dayton",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wright_State_University_Seal.svg/150px-Wright_State_University_Seal.svg.png",
+    "college": "Wright State University",
+    "freq": "106.9 FM",
+    "location": {
+      "lat": 39.7798542,
+      "lng": -84.06510779999999
+    }
+  },
+  {
+    "letters": "WSLN",
+    "city": "Delaware",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/06/Wesleyansealnew.png/150px-Wesleyansealnew.png",
+    "college": "Ohio Wesleyan University",
+    "freq": "98.7 FM",
+    "location": {
+      "lat": 40.2965764,
+      "lng": -83.07100779999999
+    }
+  },
+  {
+    "letters": "WLFC",
+    "city": "Findlay",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9d/University_of_Findlay_Seal.png/150px-University_of_Findlay_Seal.png",
+    "college": "University of Findlay",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 41.05456059999999,
+      "lng": -83.6549481
+    }
+  },
+  {
+    "letters": "WOSX",
+    "city": "Granville",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e1/Ohio_State_University_seal.svg/150px-Ohio_State_University_seal.svg.png",
+    "college": "Ohio State University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 40.0060889,
+      "lng": -83.0282624
+    }
+  },
+  {
+    "letters": "WKSU",
+    "city": "Kent",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2a/Kent_State_seal.svg/150px-Kent_State_seal.svg.png",
+    "college": "Kent State University",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 41.1438917,
+      "lng": -81.3365012
+    }
+  },
+  {
+    "letters": "WCMO FM",
+    "city": "Marietta",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5e/Marietta_College_seal.svg/150px-Marietta_College_seal.svg.png",
+    "college": "Marietta College",
+    "freq": "98.5 FM",
+    "location": {
+      "lat": 39.4167881,
+      "lng": -81.44925649999999
+    }
+  },
+  {
+    "letters": "WOBC-FM",
+    "city": "Oberlin",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/75/Formal_Seal_of_Oberlin_College%2C_Oberlin%2C_OH%2C_USA.svg/150px-Formal_Seal_of_Oberlin_College%2C_Oberlin%2C_OH%2C_USA.svg.png",
+    "college": "Oberlin College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 41.2958696,
+      "lng": -82.22108899999999
+    }
+  },
+  {
+    "letters": "WMSR - Redhawk Radio",
+    "city": "Oxford",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/1/16/Seal_of_Miami_University.png",
+    "college": "Miami University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 39.5087485,
+      "lng": -84.73449149999999
+    }
+  },
+  {
+    "letters": "WXUT",
+    "city": "Toledo",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/b/b8/UT_Hortz.svg/220px-UT_Hortz.svg.png",
+    "college": "University of Toledo",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 41.6578804,
+      "lng": -83.6142374
+    }
+  },
+  {
+    "letters": "WOBN",
+    "city": "Westerville",
+    "state": "Ohio",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/67/Otterbein_University_logo.png/220px-Otterbein_University_logo.png",
+    "college": "Otterbein University",
+    "freq": "97.5 FM",
+    "location": {
+      "lat": 40.1268746,
+      "lng": -82.9371852
+    }
+  },
+  {
+    "letters": "KZUC-LP",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/3f/University_of_Central_Oklahoma_seal.svg/200px-University_of_Central_Oklahoma_seal.svg.png",
+    "college": "University of Central Oklahoma",
+    "freq": "99.3 FM",
+    "location": {
+      "lat": 35.657506,
+      "lng": -97.4709491
+    }
+  },
+  {
+    "letters": "the WIRE",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/56/University_of_Oklahoma_seal.svg/150px-University_of_Oklahoma_seal.svg.png",
+    "college": "University of Oklahoma",
+    "freq": "(web only)",
+    "location": {
+      "lat": 35.1987162,
+      "lng": -97.4448963
+    }
+  },
+  {
+    "letters": "KBVR",
+    "city": "Corvallis",
+    "state": "Oregon",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/13/Oregon_State_University_seal.svg/150px-Oregon_State_University_seal.svg.png",
+    "college": "Oregon State University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 44.5618097,
+      "lng": -123.2822671
+    }
+  },
+  {
+    "letters": "KWVA",
+    "city": "Eugene",
+    "state": "Oregon",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/28/University_of_Oregon_seal.svg/140px-University_of_Oregon_seal.svg.png",
+    "college": "University of Oregon",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 44.0448302,
+      "lng": -123.0726055
+    }
+  },
+  {
+    "letters": "KTEC",
+    "city": "Klamath Falls",
+    "state": "Oregon",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/cf/Oregon_Institute_of_Technology_seal.svg/180px-Oregon_Institute_of_Technology_seal.svg.png",
+    "college": "Oregon Institute of Technology",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 42.25538520000001,
+      "lng": -121.7852487
+    }
+  },
+  {
+    "letters": "WMUH",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Muhlenberg_logo_from_NCAA.svg/220px-Muhlenberg_logo_from_NCAA.svg.png",
+    "college": "Muhlenberg College",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 40.5981933,
+      "lng": -75.5081076
+    }
+  },
+  {
+    "letters": "WLVR",
+    "city": "Bethlehem",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/65/Lehigh_University_Official_Seal.jpg/220px-Lehigh_University_Official_Seal.jpg",
+    "college": "Lehigh University",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 40.605388,
+      "lng": -75.3772863
+    }
+  },
+  {
+    "letters": "WHSK",
+    "city": "Bloomsburg",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/ad/Bloomsburg_University_seal.png/150px-Bloomsburg_University_seal.png",
+    "college": "Bloomsburg University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 41.0081119,
+      "lng": -76.4472749
+    }
+  },
+  {
+    "letters": "WCAL-FM",
+    "city": "California",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/b/b0/PennWest_Lockup_California_FINAL_SM.svg/150px-PennWest_Lockup_California_FINAL_SM.svg.png",
+    "college": "California University of Pennsylvania",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 40.0645583,
+      "lng": -79.8846147
+    }
+  },
+  {
+    "letters": "WFSE",
+    "city": "Edinboro",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/51/PennWest_Lockup_Edinboro_FINAL_SM.svg/150px-PennWest_Lockup_Edinboro_FINAL_SM.svg.png",
+    "college": "Edinboro University of Pennsylvania",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 41.87422249999999,
+      "lng": -80.1317236
+    }
+  },
+  {
+    "letters": "WWEC",
+    "city": "Elizabethtown",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/35/Elizabethtown_seal.png/150px-Elizabethtown_seal.png",
+    "college": "Elizabethtown College",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 40.14932990000001,
+      "lng": -76.58968349999999
+    }
+  },
+  {
+    "letters": "WERG",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/7a/Gannon_University_seal.png/150px-Gannon_University_seal.png",
+    "college": "Gannon University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 42.1275517,
+      "lng": -80.0896332
+    }
+  },
+  {
+    "letters": "WZBT",
+    "city": "Gettysburg",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/fd/Gettysburg_College_seal.svg/150px-Gettysburg_College_seal.svg.png",
+    "college": "Gettysburg College",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 39.83567439999999,
+      "lng": -77.2366796
+    }
+  },
+  {
+    "letters": "WSAJ",
+    "city": "Grove City",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/44/Seal_of_Grove_City_College.png/150px-Seal_of_Grove_City_College.png",
+    "college": "Grove City College",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 41.1557924,
+      "lng": -80.0815357
+    }
+  },
+  {
+    "letters": "WIUP",
+    "city": "Indiana",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/89/IUP_seal.png/150px-IUP_seal.png",
+    "college": "Indiana University of Pennsylvania",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 40.6214551,
+      "lng": -79.15253489999999
+    }
+  },
+  {
+    "letters": "WFNM",
+    "city": "Lancaster",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e0/Formal_Seal_of_Franklin_%26_Marshall_College%2C_Lancaster%2C_PA%2C_USA.svg/150px-Formal_Seal_of_Franklin_%26_Marshall_College%2C_Lancaster%2C_PA%2C_USA.svg.png",
+    "college": "Franklin and Marshall College",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 40.04874,
+      "lng": -76.3199261
+    }
+  },
+  {
+    "letters": "WVBU",
+    "city": "Lewisburg",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/16/Bucknell_University_seal.svg/130px-Bucknell_University_seal.svg.png",
+    "college": "Bucknell University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 40.9547722,
+      "lng": -76.88507589999999
+    }
+  },
+  {
+    "letters": "WNTE",
+    "city": "Mansfield",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/80/Mansfield_University_seal.png/150px-Mansfield_University_seal.png",
+    "college": "Mansfield University",
+    "freq": "89.5 FM",
+    "location": {
+      "lat": 41.8047541,
+      "lng": -77.07042799999999
+    }
+  },
+  {
+    "letters": "WIXQ",
+    "city": "Millersville",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e6/Millersville_University_seal.svg/150px-Millersville_University_seal.svg.png",
+    "college": "Millersville University of Pennsylvania",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.9978764,
+      "lng": -76.3541274
+    }
+  },
+  {
+    "letters": "WEXP",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9d/La_Salle_University_Coat_of_Arms.svg/125px-La_Salle_University_Coat_of_Arms.svg.png",
+    "college": "La Salle University",
+    "freq": "(defunct)",
+    "location": {
+      "lat": 40.0390398,
+      "lng": -75.1558184
+    }
+  },
+  {
+    "letters": "WKDU",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8c/Drexel_University_seal.svg/150px-Drexel_University_seal.svg.png",
+    "college": "Drexel University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.9566127,
+      "lng": -75.18994409999999
+    }
+  },
+  {
+    "letters": "WRTI",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/45/Temple_University_seal.svg/150px-Temple_University_seal.svg.png",
+    "college": "Temple University",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 39.9811911,
+      "lng": -75.1553563
+    }
+  },
+  {
+    "letters": "WQHS",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/150px-UPenn_shield_with_banner.svg.png",
+    "college": "University of Pennsylvania",
+    "freq": "(web only)",
+    "location": {
+      "lat": 39.9522188,
+      "lng": -75.1932137
+    }
+  },
+  {
+    "letters": "WDSR",
+    "city": "Center Valley",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/78/DeSales_University_Marketing_Logo.png/150px-DeSales_University_Marketing_Logo.png",
+    "college": "DeSales University",
+    "freq": "1340 AM",
+    "location": {
+      "lat": 40.5387807,
+      "lng": -75.3792986
+    }
+  },
+  {
+    "letters": "WPPJ",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/b5/Point_Park_University_seal.png/150px-Point_Park_University_seal.png",
+    "college": "Point Park University",
+    "freq": "670 AM",
+    "location": {
+      "lat": 40.4384916,
+      "lng": -80.0017987
+    }
+  },
+  {
+    "letters": "WPTS-FM",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/150px-University_of_Pittsburgh_seal.svg.png",
+    "college": "University of Pittsburgh",
+    "freq": "92.1 FM",
+    "location": {
+      "lat": 40.44402789999999,
+      "lng": -79.9605375
+    }
+  },
+  {
+    "letters": "WRCT-FM",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bb/Carnegie_Mellon_University_seal.svg/150px-Carnegie_Mellon_University_seal.svg.png",
+    "college": "Carnegie Mellon University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 40.4432027,
+      "lng": -79.9428499
+    }
+  },
+  {
+    "letters": "WXAC",
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/a/a9/Albright_College_seal.png",
+    "college": "Albright College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 40.363518,
+      "lng": -75.9106812
+    }
+  },
+  {
+    "letters": "WXLV",
+    "city": "Schnecksville",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lehigh_Carbon_Community_College_Main_Campus.jpg/220px-Lehigh_Carbon_Community_College_Main_Campus.jpg",
+    "college": "Lehigh Carbon Community College",
+    "freq": "(web only)",
+    "location": {
+      "lat": 40.6647165,
+      "lng": -75.61284359999999
+    }
+  },
+  {
+    "letters": "WQSU",
+    "city": "Selinsgrove",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/34/Susquehanna_University_Original_Seal.png/150px-Susquehanna_University_Original_Seal.png",
+    "college": "Susquehanna University",
+    "freq": "88.9 FM",
+    "location": {
+      "lat": 40.7970002,
+      "lng": -76.8775569
+    }
+  },
+  {
+    "letters": "WSRU",
+    "city": "Slippery Rock",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/cd/Slippery_Rock_University_of_Pennsylvania_Seal.png/150px-Slippery_Rock_University_of_Pennsylvania_Seal.png",
+    "college": "Slippery Rock University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.0629938,
+      "lng": -80.04119899999999
+    }
+  },
+  {
+    "letters": "WKPS",
+    "city": "State College",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5c/Pennsylvania_State_University_seal.svg/150px-Pennsylvania_State_University_seal.svg.png",
+    "college": "Pennsylvania State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 40.7982133,
+      "lng": -77.8599084
+    }
+  },
+  {
+    "letters": "WSRN",
+    "city": "Swarthmore",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8e/Formal_Seal_of_Swarthmore_College%2C_Swarthmore%2C_PA%2C_USA.svg/150px-Formal_Seal_of_Swarthmore_College%2C_Swarthmore%2C_PA%2C_USA.svg.png",
+    "college": "Swarthmore College",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 39.90383300000001,
+      "lng": -75.3526567
+    }
+  },
+  {
+    "letters": "WCLH",
+    "city": "Wilkes-Barre",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wilkes_University_Seal_Blue.png/150px-Wilkes_University_Seal_Blue.png",
+    "college": "Wilkes University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 41.2449585,
+      "lng": -75.8883633
+    }
+  },
+  {
+    "letters": "WCUR",
+    "city": "West Chester",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/8/84/West_Chester_University_seal.gif",
+    "college": "West Chester University of Pennsylvania",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.9606643,
+      "lng": -75.6054882
+    }
+  },
+  {
+    "letters": "WVYC",
+    "city": "York",
+    "state": "Pennsylvania",
+    "link": "upload.wikimedia.org/wikipedia/en/a/a9/York_College_Pennsylvania_seal.png",
+    "college": "York College of Pennsylvania",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 39.9465999,
+      "lng": -76.72959589999999
+    }
+  },
+  {
+    "letters": "WRIU",
+    "city": "Kingston",
+    "state": "Rhode Island",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e0/University_of_Rhode_Island_seal.svg/150px-University_of_Rhode_Island_seal.svg.png",
+    "college": "University of Rhode Island",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 41.4862328,
+      "lng": -71.53067879999999
+    }
+  },
+  {
+    "letters": "WBRU-LP",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/50/Shield_of_Brown_University.svg/110px-Shield_of_Brown_University.svg.png",
+    "college": "Brown University",
+    "freq": "101.1 FM",
+    "location": {
+      "lat": 41.8267718,
+      "lng": -71.4025482
+    }
+  },
+  {
+    "letters": "WXIN",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/1/19/Rhode_Island_College_%28logo%29.png/150px-Rhode_Island_College_%28logo%29.png",
+    "college": "Rhode Island College",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 41.8417288,
+      "lng": -71.4627575
+    }
+  },
+  {
+    "letters": "WSBF",
+    "city": "Clemson",
+    "state": "South Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9c/Clemson_University_Seal.svg/150px-Clemson_University_Seal.svg.png",
+    "college": "Clemson University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 34.6749926,
+      "lng": -82.8406184
+    }
+  },
+  {
+    "letters": "WUSC",
+    "city": "Columbia",
+    "state": "South Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/b/bb/University_of_South_Carolina_seal.svg/130px-University_of_South_Carolina_seal.svg.png",
+    "college": "University of South Carolina",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 33.9937575,
+      "lng": -81.0299186
+    }
+  },
+  {
+    "letters": "WPLS-FM",
+    "city": "Greenville",
+    "state": "South Carolina",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9e/Furman_U_Seal.png/150px-Furman_U_Seal.png",
+    "college": "Furman University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 34.9274741,
+      "lng": -82.4400679
+    }
+  },
+  {
+    "letters": "WNGR-LP (\"The Vibe\")",
+    "city": "Tigerville",
+    "state": "South Carolina",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/f/f2/North-greenville-university-seal.png/150px-North-greenville-university-seal.png",
+    "college": "North Greenville University",
+    "freq": "95.5 FM",
+    "location": {
+      "lat": 35.0664415,
+      "lng": -82.3730904
+    }
+  },
+  {
+    "letters": "KAOR",
+    "city": "Vermillion",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/31/University_of_South_Dakota_seal.svg/150px-University_of_South_Dakota_seal.svg.png",
+    "college": "University of South Dakota",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 42.7883015,
+      "lng": -96.92533809999999
+    }
+  },
+  {
+    "letters": "KBHU-FM",
+    "city": "Spearfish",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/52/Black_Hills_State_University_seal.svg/150px-Black_Hills_State_University_seal.svg.png",
+    "college": "Black Hills State University",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 44.4993591,
+      "lng": -103.8722763
+    }
+  },
+  {
+    "letters": "KJKT-FM",
+    "city": "Spearfish",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/52/Black_Hills_State_University_seal.svg/150px-Black_Hills_State_University_seal.svg.png",
+    "college": "Black Hills State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 44.4993591,
+      "lng": -103.8722763
+    }
+  },
+  {
+    "letters": "KDSU (internet radio)",
+    "city": "Madison",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/59/Dakota_State_University_seal.svg/180px-Dakota_State_University_seal.svg.png",
+    "college": "Dakota State University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 44.0126125,
+      "lng": -97.1103618
+    }
+  },
+  {
+    "letters": "KSDJ",
+    "city": "Brookings",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e7/SDSU_South_Dakota_State_University_Logo.png/150px-SDSU_South_Dakota_State_University_Logo.png",
+    "college": "South Dakota State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 44.3191071,
+      "lng": -96.78351819999999
+    }
+  },
+  {
+    "letters": "KTEQ-FM",
+    "city": "Rapid City",
+    "state": "South Dakota",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/55/SouthDakotaMines-SocialMediaAvatar-White_%28002%29.png/220px-SouthDakotaMines-SocialMediaAvatar-White_%28002%29.png",
+    "college": "South Dakota School of Mines and Technology",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 44.0730941,
+      "lng": -103.2062801
+    }
+  },
+  {
+    "letters": "WAPX-FM",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f2/Austin_Peay_State_University_seal.svg/180px-Austin_Peay_State_University_seal.svg.png",
+    "college": "Austin Peay State University",
+    "freq": "91.9 FM",
+    "location": {
+      "lat": 36.53498,
+      "lng": -87.3548855
+    }
+  },
+  {
+    "letters": "WVCP",
+    "city": "Gallatin",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/09/Better_version_of_vol_state_logo.jpg/220px-Better_version_of_vol_state_logo.jpg",
+    "college": "Volunteer State Community College",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 36.362364,
+      "lng": -86.49726299999999
+    }
+  },
+  {
+    "letters": "WUTK",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9f/University_of_Tennessee_seal.png/130px-University_of_Tennessee_seal.png",
+    "college": "University of Tennessee",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 35.9544013,
+      "lng": -83.92945639999999
+    }
+  },
+  {
+    "letters": "WFMQ",
+    "city": "Lebanon",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/20/Cumberland-logo.png/220px-Cumberland-logo.png",
+    "college": "Cumberland University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 36.2052388,
+      "lng": -86.2991323
+    }
+  },
+  {
+    "letters": "WYXR",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f0/University_of_Memphis_seal.svg/130px-University_of_Memphis_seal.svg.png",
+    "college": "University of Memphis",
+    "freq": "104.5 FM",
+    "location": {
+      "lat": 35.1187498,
+      "lng": -89.9374928
+    }
+  },
+  {
+    "letters": "WMTS-FM",
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/ca/Middle_Tennessee_State_University_seal.png/150px-Middle_Tennessee_State_University_seal.png",
+    "college": "Middle Tennessee State University",
+    "freq": "88.3 FM",
+    "location": {
+      "lat": 35.8486229,
+      "lng": -86.36691549999999
+    }
+  },
+  {
+    "letters": "WFSK",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/6/6c/JubileeHallFiskU.jpg/220px-JubileeHallFiskU.jpg",
+    "college": "Fisk University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 36.167332,
+      "lng": -86.8035531
+    }
+  },
+  {
+    "letters": "WECV (then WNAZ)",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "college": "Trevecca Nazarene University (formerly)",
+    "freq": "89.1 FM",
+    "location": {
+      "lat": 36.1425256,
+      "lng": -86.7532686
+    }
+  },
+  {
+    "letters": "WRVU",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/29/Vanderbilt_University_seal.svg/150px-Vanderbilt_University_seal.svg.png",
+    "college": "Vanderbilt University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 36.1447034,
+      "lng": -86.8026551
+    }
+  },
+  {
+    "letters": "KACC",
+    "city": "Alvin",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/3/37/Alvin_Community_College_A_Building%2CTexas.jpg/220px-Alvin_Community_College_A_Building%2CTexas.jpg",
+    "college": "Alvin Community College",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 29.396337,
+      "lng": -95.240639
+    }
+  },
+  {
+    "letters": "KVRX-FM",
+    "city": "Austin",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/e1/University_of_Texas_at_Austin_seal.svg/150px-University_of_Texas_at_Austin_seal.svg.png",
+    "college": "University of Texas at Austin",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 30.2850284,
+      "lng": -97.7335226
+    }
+  },
+  {
+    "letters": "KHPU",
+    "city": "Brownwood",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a1/Howard_Payne_University_seal.png/200px-Howard_Payne_University_seal.png",
+    "college": "Howard Payne University",
+    "freq": "105.7 FM",
+    "location": {
+      "lat": 31.7156919,
+      "lng": -98.9871565
+    }
+  },
+  {
+    "letters": "KPNI",
+    "city": "Dallas",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f8/Southern_Methodist_University_seal.svg/150px-Southern_Methodist_University_seal.svg.png",
+    "college": "Southern Methodist University",
+    "freq": "(defunct)",
+    "location": {
+      "lat": 32.8412178,
+      "lng": -96.78451749999999
+    }
+  },
+  {
+    "letters": "KNTU",
+    "city": "Denton",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/3/37/Seal_of_UNT.png/160px-Seal_of_UNT.png",
+    "college": "University of North Texas",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 33.207488,
+      "lng": -97.1525862
+    }
+  },
+  {
+    "letters": "KUHF",
+    "city": "Houston",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/77/University_of_Houston_seal.svg/150px-University_of_Houston_seal.svg.png",
+    "college": "University of Houston",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 29.7204627,
+      "lng": -95.34293190000001
+    }
+  },
+  {
+    "letters": "KSHU",
+    "city": "Huntsville",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/2e/SHSU_seal.svg/180px-SHSU_seal.svg.png",
+    "college": "Sam Houston State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 30.7135813,
+      "lng": -95.547276
+    }
+  },
+  {
+    "letters": "KTXT-FM",
+    "city": "Lubbock",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/47/Texas_Tech_University_seal.svg/150px-Texas_Tech_University_seal.svg.png",
+    "college": "Texas Tech University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 33.5845522,
+      "lng": -101.8746483
+    }
+  },
+  {
+    "letters": "KEOM",
+    "city": "Mesquite",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/2/29/Mesquite_Independent_School_District_logo.jpg/300px-Mesquite_Independent_School_District_logo.jpg",
+    "college": "Mesquite Independent School District",
+    "freq": "88.5 FM",
+    "location": {
+      "lat": 32.7476739,
+      "lng": -96.59969629999999
+    }
+  },
+  {
+    "letters": "KTRL",
+    "city": "Stephenville",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/ef/Tarleton_State_University_seal.svg/220px-Tarleton_State_University_seal.svg.png",
+    "college": "Tarleton State University",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 32.2160433,
+      "lng": -98.215953
+    }
+  },
+  {
+    "letters": "KXTR-LP",
+    "city": "Stephenville",
+    "state": "Texas",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/e/ef/Tarleton_State_University_seal.svg/220px-Tarleton_State_University_seal.svg.png",
+    "college": "Tarleton State University",
+    "freq": "100.7 FM",
+    "location": {
+      "lat": 32.2160433,
+      "lng": -98.215953
+    }
+  },
+  {
+    "letters": "KSUU",
+    "city": "Cedar City",
+    "state": "Utah",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/0/0e/SUU_Academic_Logo_2016.png/200px-SUU_Academic_Logo_2016.png",
+    "college": "Southern Utah University",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 37.6764461,
+      "lng": -113.0713001
+    }
+  },
+  {
+    "letters": "KWCR",
+    "city": "Ogden",
+    "state": "Utah",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/5f/Weber_State_University_seal.svg/115px-Weber_State_University_seal.svg.png",
+    "college": "Weber State University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 41.1913021,
+      "lng": -111.9440252
+    }
+  },
+  {
+    "letters": "K-UTE",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/4/4a/University_of_Utah_seal.svg/180px-University_of_Utah_seal.svg.png",
+    "college": "University of Utah",
+    "freq": "(web only)",
+    "location": {
+      "lat": 40.7649368,
+      "lng": -111.8421021
+    }
+  },
+  {
+    "letters": "WRUV",
+    "city": "Burlington",
+    "state": "Vermont",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a9/University_of_Vermont_seal.svg/150px-University_of_Vermont_seal.svg.png",
+    "college": "The University of Vermont",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 44.4778528,
+      "lng": -73.1964637
+    }
+  },
+  {
+    "letters": "WVTX",
+    "city": "Colchester",
+    "state": "Vermont",
+    "link": "upload.wikimedia.org/wikipedia/en/f/f1/Saint_Michael%27s_College_seal.png",
+    "college": "Saint Michael's College",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 44.49598,
+      "lng": -73.163743
+    }
+  },
+  {
+    "letters": "WVLR-FM (then WWLR)",
+    "city": "Lyndonville",
+    "state": "Vermont",
+    "college": "Vermont State University Lyndon (formerly)",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 44.5453088,
+      "lng": -72.0000723
+    }
+  },
+  {
+    "letters": "WRMC",
+    "city": "Middlebury",
+    "state": "Vermont",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/01/Middlebury_College_seal.svg/130px-Middlebury_College_seal.svg.png",
+    "college": "Middlebury College",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 44.0081076,
+      "lng": -73.1760412
+    }
+  },
+  {
+    "letters": "WVTC",
+    "city": "Randolph",
+    "state": "Vermont",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Vermont_technical_college_20040926.jpg/220px-Vermont_technical_college_20040926.jpg",
+    "college": "Vermont State University Randolph",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 44.2542215,
+      "lng": -72.57275
+    }
+  },
+  {
+    "letters": "WUVT-FM",
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/54/Virginia_Tech_seal.svg/150px-Virginia_Tech_seal.svg.png",
+    "college": "Virginia Polytechnic Institute and State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 37.22838429999999,
+      "lng": -80.42341669999999
+    }
+  },
+  {
+    "letters": "WXTJ-LP",
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/17/University_of_Virginia_seal.svg/190px-University_of_Virginia_seal.svg.png",
+    "college": "University of Virginia",
+    "freq": "100.1 FM",
+    "location": {
+      "lat": 38.0335529,
+      "lng": -78.5079772
+    }
+  },
+  {
+    "letters": "WTJU",
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/17/University_of_Virginia_seal.svg/190px-University_of_Virginia_seal.svg.png",
+    "college": "University of Virginia",
+    "freq": "91.1 FM",
+    "location": {
+      "lat": 38.0335529,
+      "lng": -78.5079772
+    }
+  },
+  {
+    "letters": "WHOV",
+    "city": "Hampton",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d3/Hampton_University_Seal.png/150px-Hampton_University_Seal.png",
+    "college": "Hampton University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 37.0228392,
+      "lng": -76.3343603
+    }
+  },
+  {
+    "letters": "WXJM",
+    "city": "Harrisonburg",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/7/7c/James_Madison_University_seal.svg/150px-James_Madison_University_seal.svg.png",
+    "college": "James Madison University",
+    "freq": "88.7 FM",
+    "location": {
+      "lat": 38.435092,
+      "lng": -78.8697548
+    }
+  },
+  {
+    "letters": "WLUR",
+    "city": "Lexington",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/f/f0/W%26L_Crest.png/130px-W%26L_Crest.png",
+    "college": "Washington and Lee University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 37.7898776,
+      "lng": -79.4458935
+    }
+  },
+  {
+    "letters": "WDCE",
+    "city": "Richmond",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d7/University_of_Richmond_seal.svg/150px-University_of_Richmond_seal.svg.png",
+    "college": "University of Richmond",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 37.5758243,
+      "lng": -77.5397192
+    }
+  },
+  {
+    "letters": "WVCW",
+    "city": "Richmond",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/c/cd/VCU_Seal_sans_logotype.svg/130px-VCU_Seal_sans_logotype.svg.png",
+    "college": "Virginia Commonwealth University",
+    "freq": "(web only)",
+    "location": {
+      "lat": 37.5469224,
+      "lng": -77.4541759
+    }
+  },
+  {
+    "letters": "WCWM",
+    "city": "Williamsburg",
+    "state": "Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/d/d7/College_of_William_%26_Mary_Coat_of_Arms.png/130px-College_of_William_%26_Mary_Coat_of_Arms.png",
+    "college": "College of William & Mary",
+    "freq": "90.9 FM",
+    "location": {
+      "lat": 37.2709753,
+      "lng": -76.7162467
+    }
+  },
+  {
+    "letters": "KUGS",
+    "city": "Bellingham",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/6/6a/Western_Washington_University_seal.svg/150px-Western_Washington_University_seal.svg.png",
+    "college": "Western Washington University",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 48.7342877,
+      "lng": -122.4866102
+    }
+  },
+  {
+    "letters": "KCED",
+    "city": "Centralia",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/6/66/Centralia-CC-logo.gif",
+    "college": "Centralia College",
+    "freq": "91.3 FM",
+    "location": {
+      "lat": 46.7161844,
+      "lng": -122.9606849
+    }
+  },
+  {
+    "letters": "KCWU",
+    "city": "Ellensburg",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0a/Central_Washington_University_seal.svg/150px-Central_Washington_University_seal.svg.png",
+    "college": "Central Washington University",
+    "freq": "88.1 FM",
+    "location": {
+      "lat": 47.0073154,
+      "lng": -120.5362805
+    }
+  },
+  {
+    "letters": "KAOS-FM",
+    "city": "Olympia",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/aa/EvergreenStateCollegeSeal.png/150px-EvergreenStateCollegeSeal.png",
+    "college": "Evergreen State College",
+    "freq": "89.3 FM",
+    "location": {
+      "lat": 47.0730714,
+      "lng": -122.9739949
+    }
+  },
+  {
+    "letters": "KZUU",
+    "city": "Pullman",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0e/Washington_State_University_seal.svg/150px-Washington_State_University_seal.svg.png",
+    "college": "Washington State University",
+    "freq": "90.7 FM",
+    "location": {
+      "lat": 46.7295265,
+      "lng": -117.1803059
+    }
+  },
+  {
+    "letters": "KEXP",
+    "city": "Seattle",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/150px-University_of_Washington_seal.svg.png",
+    "college": "University of Washington",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 47.65464069999999,
+      "lng": -122.3074579
+    }
+  },
+  {
+    "letters": "KUPS",
+    "city": "Tacoma",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/99/University_of_Puget_Sound_seal.svg/140px-University_of_Puget_Sound_seal.svg.png",
+    "college": "University of Puget Sound",
+    "freq": "90.1 FM",
+    "location": {
+      "lat": 47.2617495,
+      "lng": -122.4814442
+    }
+  },
+  {
+    "letters": "KWCW",
+    "city": "Walla Walla",
+    "state": "Washington",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Whitman_Wordmark_2.0.jpg/200px-Whitman_Wordmark_2.0.jpg",
+    "college": "Whitman College",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 46.0708191,
+      "lng": -118.3295895
+    }
+  },
+  {
+    "letters": "WWVU",
+    "city": "Morgantown",
+    "state": "West Virginia",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/1/1b/West_Virginia_University_seal.svg/150px-West_Virginia_University_seal.svg.png",
+    "college": "West Virginia University",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 39.6480359,
+      "lng": -79.9697147
+    }
+  },
+  {
+    "letters": "WGLZ",
+    "city": "West Liberty",
+    "state": "West Virginia",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/0/0f/West_Liberty_University_seal.png/150px-West_Liberty_University_seal.png",
+    "college": "West Liberty University",
+    "freq": "91.5 FM",
+    "location": {
+      "lat": 40.16390519999999,
+      "lng": -80.600651
+    }
+  },
+  {
+    "letters": "WLFM",
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/9/9a/Lawrence_University_of_Wisconsin_seal.svg/150px-Lawrence_University_of_Wisconsin_seal.svg.png",
+    "college": "Lawrence University",
+    "freq": "103.9 FM",
+    "location": {
+      "lat": 44.2611716,
+      "lng": -88.3989041
+    }
+  },
+  {
+    "letters": "WBCR-FM",
+    "city": "Beloit",
+    "state": "Wisconsin",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/a/a6/Beloit_seal.png/200px-Beloit_seal.png",
+    "college": "Beloit College",
+    "freq": "90.3 FM",
+    "location": {
+      "lat": 42.5030333,
+      "lng": -89.0309048
+    }
+  },
+  {
+    "letters": "WSUM",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "college": "University of Wisconsin–Madison",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 43.076592,
+      "lng": -89.4124875
+    }
+  },
+  {
+    "letters": "WMSE",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/7/76/Milwaukee_School_of_Engineering_logo.svg/150px-Milwaukee_School_of_Engineering_logo.svg.png",
+    "college": "Milwaukee School of Engineering",
+    "freq": "91.7 FM",
+    "location": {
+      "lat": 43.045115,
+      "lng": -87.90800709999999
+    }
+  },
+  {
+    "letters": "WUWM",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "college": "University of Wisconsin–Milwaukee",
+    "freq": "89.7 FM",
+    "location": {
+      "lat": 43.078263,
+      "lng": -87.8819686
+    }
+  },
+  {
+    "letters": "WWSP",
+    "city": "Stevens Point",
+    "state": "Wisconsin",
+    "link": "upload.wikimedia.org/wikipedia/en/thumb/8/8d/UW-Stevens_Point_Logo.jpg/200px-UW-Stevens_Point_Logo.jpg",
+    "college": "University of Wisconsin-Stevens Point",
+    "freq": "89.9 FM",
+    "location": {
+      "lat": 44.52944910000001,
+      "lng": -89.57137759999999
+    }
+  },
+  {
+    "letters": "WSUP",
+    "city": "Platteville",
+    "state": "Wisconsin",
+    "link": "upload.wikimedia.org/wikipedia/commons/thumb/e/e5/UW-Platteville-3.jpg/220px-UW-Platteville-3.jpg",
+    "college": "University of Wisconsin-Platteville",
+    "freq": "90.5 FM",
+    "location": {
+      "lat": 42.7331994,
+      "lng": -90.48782140000002
+    }
+  }
+]
