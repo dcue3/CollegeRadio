@@ -5,7 +5,6 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const College = require('./models/College');
 const Request = require('./models/Request');
-const mime = require('mime-types');
 require('dotenv').config();
 const app = express();
 const port = 3001; // You can choose any port you like
@@ -17,26 +16,6 @@ app.use(express.json());
 
 mongoose.connect('mongodb://localhost:27017/colleges', { useNewUrlParser: true, useUnifiedTopology: true });
 
-async function checkAudioStream(url) {
-  try {
-      // Make a HEAD request to fetch the headers
-      const response = await axios.head(url);
-
-      // Get the content type from the response headers
-      const contentType = response.headers['content-type'];
-
-      // Validate the content type
-      const validContentTypes = ['audio/mpeg', 'audio/ogg', 'audio/aac', 'audio/wav'];
-      if (validContentTypes.includes(contentType)) {
-          return true;
-      } else {
-          return false;
-      }
-  } catch (error) {
-      // Handle error (e.g., network issues, invalid URL)
-      return false;
-  }
-}
 
 app.get('/api/maps', async (req, res) => {
   res.json({ apiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY });
@@ -57,18 +36,13 @@ app.get('/api/station/:callLetters/:frequency/:city', async (req, res) => {
   try {
     const response = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${callLetters.substring(0,4)}`);
     const station = response.data.find(st => st.name.includes(frequency) );
-    
-    const tagsToFilter = ["student", "college", "university"];
-    const stationsByTags = reponse.filter(st => {
-      const tags = st.tags.split(',').map(tag => tag.trim().toLowerCase());
-      return tags.some(tag => tagsToFilter.includes(tag));
-    });
-
+    const stationTag = response.data.find(st => (st.tags.includes("student") || st.tags.includes("college") || st.tags.includes("university")) );
     const stationCity = response.data.find(st => st.name.includes(callLetters.substring(0,4)) );
     const response2 = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${frequency}`);
     const stationCity2 = response2.data.find(st => st.name.includes(city) );
     const lastResort = response2.data.find(st => (st.countrycode.includes("US") && st.language.includes("english")) );
-    if (station) {
+    if(stationTag){res.json({ url: stationTag.url });}
+    else if (station) {
       res.json({ url: station.url });
     } else {
       if(stationCity){res.json({ url: stationCity.url });}

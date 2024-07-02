@@ -79,13 +79,15 @@ const GoogleMap = () => {
   const playStation = async (college, callLetters, frequency, logo, city) => {
     const url = await fetchStreamUrl(callLetters, frequency, city);
     if (url) {
+      try{
       const audioPlayer = audioPlayerRef.current;
       audioPlayer.src = url;
       audioPlayer.style.display = 'block';
       audioPlayer.play();
-      setNowPlaying({ college, station: callLetters, logo });
+      setNowPlaying({ college, station: callLetters, logo }); 
+    }catch(error){alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');}
     } else {
-      alert('Streaming URL not found');
+      alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');
     }
   };
 
@@ -267,6 +269,7 @@ const GoogleMap = () => {
                   
           .audio-player {
             position: fixed;
+            max-width: 700px;
             top: 10px;
             right: 30px;
             z-index: 1000;
