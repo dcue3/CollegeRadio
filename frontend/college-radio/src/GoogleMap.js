@@ -66,9 +66,9 @@ const GoogleMap = () => {
     fetchColleges();
   }, [map]);
 
-  const fetchStreamUrl = async (callLetters, frequency) => {
+  const fetchStreamUrl = async (callLetters, frequency,city) => {
     try {
-      const response = await axios.get('http://localhost:3001/api/station/${callLetters}/${frequency.substring(0, frequency.length - 3)}');
+      const response = await axios.get(`http://localhost:3001/api/station/${callLetters}/${frequency.substring(0, frequency.length - 3)}/${city}`);
       return response.data.url;
     } catch (error) {
       console.error('Error fetching stream URL:', error);
@@ -168,7 +168,7 @@ const GoogleMap = () => {
         <audio ref={audioPlayerRef} controls style={{ display: 'none' }} />
         {nowPlaying.college && (
           <div className="now-playing">
-            <img src={nowPlaying.logo.startsWith('http') ? nowPlaying.logo : 'https://${nowPlaying.logo}'} style={{ padding: '10px', width: '50px', height: '50px' }} />
+            <img src={nowPlaying.logo.startsWith('http') ? nowPlaying.logo : `https://${nowPlaying.logo}`} style={{ padding: '10px', width: '50px', height: '50px' }} />
             <div>
               <p>Now playing: {nowPlaying.station} - {nowPlaying.college}</p>
             </div>

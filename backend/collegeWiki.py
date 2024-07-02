@@ -35,6 +35,52 @@ def fetch_location(college_name):
     
     return None
 
+
+# Function to fetch all documents from Request collection and insert into College collection
+def fetch_and_insert():
+    try:
+        # Find all documents in Request collection
+        requests = list(request_collection.find())
+
+        # Prepare data for insertion into College collection
+        colleges = []
+        for request in requests:
+            college_doc = {
+                'letters': request['letters'],
+                'city': "",
+                'state': "",
+                'college': request['college'],
+                'freq': request['frequency']
+                # letter city state link college frequency location
+            }
+            colleges.append(college_doc)
+
+        # Insert all valid requests into College collection
+        for row in colleges:
+                if "College" in row['college'] or "University" in row['college']:
+                    filter_criteria = {'college': row_data['college']}
+                    update_data = {
+                    '$set': {'freq': row['freq'], 'letters':row['letters']},
+                    '$setOnInsert': {
+                        'college': row['college'],
+                        'letters': row['letters'],
+                        'freq': row['freq'],
+                        'city': '',
+                        'state': '',
+                    }
+                    }
+                    collection.update_one(filter_criteria, update_data, upsert=True)
+
+        
+
+
+    except Exception as e:
+        print(f"Error fetching or inserting data: {str(e)}")
+
+    finally:
+        # Close MongoDB connection
+        client.close()
+
 # URL of the website with the table
 url = 'https://en.wikipedia.org/wiki/List_of_campus_radio_stations'
 
@@ -53,6 +99,9 @@ headers = {
 client = MongoClient(mongo_uri)
 db = client.get_database()  # Use default database from MongoDB URI
 collection = db['colleges']  # MongoDB collection name
+request_collection = db['requests']  # Replace with actual collection name
+db.requests.delete_many({}) #Clear all requests after storing them
+
 
 
 # Send a GET request to the URL with custom headers
@@ -114,17 +163,18 @@ if response.status_code == 200:
                 print(f"Skipping row with mismatched number of cells: {len(cells)} (expected {len(headers)})")
 
 
-        #TAKE EVERY ROW AND SAVE IT TO THE MONGODB DATABASE
+        #Update scraped info if it has changed
         try:
             for row in rows:
                 filter_criteria = {'college': row['college']}  # Assuming '_id' is the unique identifier
                 update_data = {'$set': row}  # Replace entire document with 'row'
                 collection.update_one(filter_criteria, update_data, upsert=True)
-            print(f"Data inserted successfully. Inserted IDs: {result.inserted_ids}")
         except Exception as e:
             print(f"Error inserting data into MongoDB: {str(e)}")
 
 
+        #Parse requests in database, add them if they are valid!
+        fetch_and_insert()
 
         # Save the data to a JSON file
         with open('wiki_data.json', 'w') as f:
