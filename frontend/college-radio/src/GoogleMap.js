@@ -15,7 +15,7 @@ const GoogleMap = () => {
   useEffect(() => {
     const fetchApiKey = async () => {
       try {
-        const response = await axios.get('http://localhost:3001/api/maps');
+        const response = await axios.get('https://collegeradiobackend-16c4036a90b1.herokuapp.com/api/maps');
         const apiKey = response.data.apiKey;
 
         const loader = new Loader({
@@ -45,7 +45,7 @@ const GoogleMap = () => {
   useEffect(() => {
     const fetchColleges = async () => {
       try {
-        const response = await axios.get('http://localhost:3001/api/colleges');
+        const response = await axios.get('https://collegeradiobackend-16c4036a90b1.herokuapp.com/api/colleges');
         const collegelist = response.data;
         if (map) {
           collegelist.forEach((college) => {
@@ -68,7 +68,7 @@ const GoogleMap = () => {
 
   const fetchStreamUrl = async (callLetters, frequency,city) => {
     try {
-      const response = await axios.get(`http://localhost:3001/api/station/${callLetters}/${frequency.substring(0, frequency.length - 3)}/${city}`);
+      const response = await axios.get(`https://collegeradiobackend-16c4036a90b1.herokuapp.com/api/station/${callLetters}/${frequency.substring(0, frequency.length - 3)}/${city}`);
       return response.data.url;
     } catch (error) {
       console.error('Error fetching stream URL:', error);
@@ -177,7 +177,7 @@ const GoogleMap = () => {
       && (formData.college.toLowerCase().includes("university") ||formData.college.toLowerCase().includes("School") || formData.college.toLowerCase().includes("College") )
     ) {
       try {
-        await axios.post('http://localhost:3001/api/colleges', formData);
+        await axios.post('https://collegeradiobackend-16c4036a90b1.herokuapp.com/api/colleges', formData);
         alert('College information submitted successfully');
         setFormData({ college: '', letters: '', frequency: '' });
       } catch (error) {
