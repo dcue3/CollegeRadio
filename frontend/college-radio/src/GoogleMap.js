@@ -83,9 +83,15 @@ const GoogleMap = () => {
       const audioPlayer = audioPlayerRef.current;
       audioPlayer.src = url;
       audioPlayer.style.display = 'block';
+      console.log("NOERROR");
+      console.log(url);
       audioPlayer.play();
       setNowPlaying({ college, station: callLetters, logo }); 
-    }catch(error){alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');}
+      console.log("NOERROR");
+    }catch(error){
+      handleAudioError();
+      console.log("NOERROR 3");
+      alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');}
     } else {
       alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');
     }
@@ -131,9 +137,45 @@ const GoogleMap = () => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
+  const renderNowPlaying = () => { //im too lazy to catch errors so this exists
+    try {
+      if (!nowPlaying.college) {
+        return null;
+      }
+      return (
+        nowPlaying.college && (
+          <div className="now-playing">
+            <img
+              src={nowPlaying.logo.startsWith('http') ? nowPlaying.logo : `https://${nowPlaying.logo}`}
+              style={{ padding: '10px', width: '50px', height: '50px' }}
+              alt="Now Playing Logo"
+            />
+            <div>
+              <p>
+                Now playing: {nowPlaying.station} - {nowPlaying.college}
+              </p>
+            </div>
+          </div>
+        )
+      );
+    } catch (error) {
+      alert('Streaming URL not found: Station may be outdated or moved to web only, submit a request to add it below!');
+      return null;
+    }
+  };
+
+  const handleAudioError = () => {
+    const audioPlayer = audioPlayerRef.current;
+    audioPlayer.src = 'http://stream.whrb.org:8000/whrb-mp3'; // Reset the source
+    audioPlayer.style.display = 'none'; // Hide the player
+    alert('Failed to load audio. Invalid source or unsupported format.');
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (formData.college && formData.letters && formData.frequency) {
+    if (formData.college && formData.letters && formData.frequency
+      && (formData.college.toLowerCase().includes("university") ||formData.college.toLowerCase().includes("School") || formData.college.toLowerCase().includes("College") )
+    ) {
       try {
         await axios.post('http://localhost:3001/api/colleges', formData);
         alert('College information submitted successfully');
@@ -143,39 +185,20 @@ const GoogleMap = () => {
         alert('Failed to submit college information');
       }
     } else {
-      alert('Please fill out all fields');
+      alert('Please fill out all fields correctly');
     }
   };
 
   return (
-    <div style={{height:'1000px'}}>
-      <h1 className="image-container">
-        <img src="https://content.sportslogos.net/logos/30/642/thumbs/7482.gif" alt="Image 1" />
-        <img src="https://content.sportslogos.net/logos/33/797/thumbs/by8dfvb6j89hs5nrvlb1ibx5e.gif" alt="Image 2" />
-        <img src="https://content.sportslogos.net/logos/32/736/thumbs/73667562019.gif" alt="Image 3" />
-        <img src="https://content.sportslogos.net/logos/32/729/thumbs/72944222014.gif" alt="Image 4" />
-        <img src="https://content.sportslogos.net/logos/31/666/thumbs/66649782014.gif" alt="Image 5" />
-        <img src="https://content.sportslogos.net/logos/31/687/thumbs/68757442015.gif" alt="Image 6" />
-        <img src="https://content.sportslogos.net/logos/31/669/thumbs/66988442013.gif" alt="Image 7" />
-      </h1>
-      <h2 className="image-container-two">
-        <img src="https://content.sportslogos.net/logos/33/813/thumbs/81337422010.gif" alt="Image 9" />
-        <img src="https://content.sportslogos.net/logos/30/597/thumbs/59771422018.gif" alt="Image 10" />
-        <img src="https://content.sportslogos.net/logos/31/663/thumbs/66395011978.gif" alt="Image 11" />
-        <img src="https://content.sportslogos.net/logos/32/706/thumbs/70667022022.gif" alt="Image 12" />
-        <img src="https://content.sportslogos.net/logos/33/791/thumbs/79176452013.gif" alt="Image 13" />
-      </h2>
-      <div id="map" style={{ margin: '0 auto', top: '170px', width: '95%', height: '630px' }}></div>
+    <div class = "background" style={{height:'900px'}}>
+      <div className="college-radio-title">
+      <img src={require('./CollegeRadioTitle.png')} alt="College Radio Title" />
+      </div>
+     
+      <div id="map" style={{ borderRadius: '5px',margin: '0 auto', top: '30px', width: '95%', height: '585px' }}></div>
       <div className="audio-player">
-        <audio ref={audioPlayerRef} controls style={{ display: 'none' }} />
-        {nowPlaying.college && (
-          <div className="now-playing">
-            <img src={nowPlaying.logo.startsWith('http') ? nowPlaying.logo : `https://${nowPlaying.logo}`} style={{ padding: '10px', width: '50px', height: '50px' }} />
-            <div>
-              <p>Now playing: {nowPlaying.station} - {nowPlaying.college}</p>
-            </div>
-          </div>
-        )}
+        <audio ref={audioPlayerRef} controls onError={handleAudioError} style={{ display: 'none' }} />
+        {renderNowPlaying()}
       </div>
       <body className="body-one">College not mapped? Station outdated? Submit a request to add it here!</body>
       <form onSubmit={handleSubmit} className="form-container">
@@ -216,60 +239,42 @@ const GoogleMap = () => {
       </section>
       <style>
         {`
+        .background{
+          background-color: #f9f5f0;
+          opacity: 1;
+          background-size: 10px 10px;
+        }
         .about-author {
           position: relative; /* Position at the bottom, stays fixed */
           float: left;
-          top: 225px;
+          top: 100px;
           width: 100%; /* Set the width to half the page */
           padding: 1rem; /* Add some padding for content */
-          background-color: #f5f5f5; /* Set a light background color */
+          background-color: #fffff; /* Set a light background color */
           overflow-x: auto; /* Enable horizontal scroll if content overflows */
           border-radius: 5px;
         }
         .body-one{
           position: relative;  /* Ensure form is positioned relative to its container */
-          top: 205px;
-          margin: 10px auto;   /* Center the form horizontally and provide top margin */
-          width: 80%;          /* Adjust width as needed */
+          top: 55px;
+          margin: auto;   /* Center the form horizontally and provide top margin */
           max-width: 600px;    /* Example: limit the maximum width of the form */
           text: bold;
         }
         .form-container {
           position: relative;  /* Ensure form is positioned relative to its container */
-          top: 200px;
-          margin: 20px auto;   /* Center the form horizontally and provide top margin */
+          top: 65px;
+          margin: auto;   /* Center the form horizontally and provide top margin */
           width: 80%;          /* Adjust width as needed */
           max-width: 600px;    /* Example: limit the maximum width of the form */
           background: #fff;    /* Example: add a background color */
           padding: 10px;       /* Example: add padding */
           box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Example: add a box shadow */
-        }
-          .image-container {
-            display: flex;         /* Use flexbox for layout */
-            max-width: 25%;        /* Limit width to 50% of the viewport */
-            position: absolute;
-          }
-          .image-container-two {
-            display: flex;         /* Use flexbox for layout */
-            max-width: 25%;        /* Limit width to 50% of the viewport */
-            position: absolute;
-            top: 75px;
-            left: 75px;
-          }
-
-          .image-container-two img {
-            max-width: 25%;       /* Ensure images don't exceed container width */
-            display: block;
-          }
-          
-          .image-container img {
-            max-width: 25%;       /* Ensure images don't exceed container width */
-            display: block;
-          }
-                  
+          border-radius: 5px;
+        }  
           .audio-player {
             position: fixed;
-            max-width: 700px;
+            max-width: 600px;
             top: 10px;
             right: 30px;
             z-index: 1000;
@@ -288,7 +293,22 @@ const GoogleMap = () => {
           }
           .now-playing img {
             margin-right: 10px;
-          }`
+          }
+          .now-playing-error {
+            color: red;
+            margin-top: 10px;
+          }
+          .college-radio-title {
+            position: relative;
+            top: 20px;
+            margin-left: 50px;
+            text-align: left;
+          }
+          .college-radio-title img {
+            max-width: 40%;
+            height: auto;
+          }
+          `
         }
       </style>
     </div>

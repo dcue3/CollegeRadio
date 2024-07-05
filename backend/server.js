@@ -41,7 +41,7 @@ app.get('/api/station/:callLetters/:frequency/:city', async (req, res) => {
     const response2 = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${frequency}`);
     const stationCity2 = response2.data.find(st => st.name.includes(city) );
     const lastResort = response2.data.find(st => (st.countrycode.includes("US") && st.language.includes("english")) );
-    if(stationTag){res.json({ url: stationTag.url });}
+    if(stationTag){res.json({ url: stationTag.url_resolved });}
     else if (station) {
       res.json({ url: station.url });
     } else {
