@@ -190,7 +190,7 @@ const GoogleMap = () => {
   };
 
   return (
-    <div class = "background" style={{height:'900px'}}>
+    <div class = "background" style={{height:'950px', width: '100%'}}>
       <div className="college-radio-title">
       <img src={require('./CollegeRadioTitle.png')} alt="College Radio Title" />
       </div>
@@ -230,12 +230,15 @@ const GoogleMap = () => {
       </form>
       <section class="about-author">
       <h2>About</h2>
-      <p>Project: This website uses Google Maps' API, as well as the RadioFinder API to map colleges and play their corresponding
-        radio stations. At the start of every week, the website is refreshed, checking for station updates as well as processing
-        requests to add new colleges/stations. Code is available through the GitHub link below. <br/> <br/> Author:
+      <p>Project: This website uses Google Maps' API for displaying colleges and their locations, as well as the RadioBrowser API to find and play their corresponding
+        radio stations. At the start of every other week, the website is refreshed, checking for station updates as well as processing
+        requests to add new colleges/stations. Code is available through the GitHub link below. <br/> <br/> 
+        Limitations: This project uses data on colege radio stations from Wikipedia. Some may be outdated, or no longer available due to 
+        many college stations being taken off air and moved to online only. 
+        <br/> <br/>Author:
         My name is David Cue, I am a third-year computer science student at the University of Southern California.
       </p>
-      <a href="#">GitHub</a>
+      <a href="https://github.com/dcue3/CollegeRadio" target="_blank">GitHub</a>
       </section>
       <style>
         {`
@@ -248,22 +251,22 @@ const GoogleMap = () => {
           position: relative; /* Position at the bottom, stays fixed */
           float: left;
           top: 100px;
-          width: 100%; /* Set the width to half the page */
+          width: 95%; /* Set the width to half the page */
           padding: 1rem; /* Add some padding for content */
-          background-color: #fffff; /* Set a light background color */
+          background-color: #f9f5f0; /* Set a light background color */
           overflow-x: auto; /* Enable horizontal scroll if content overflows */
           border-radius: 5px;
         }
         .body-one{
           position: relative;  /* Ensure form is positioned relative to its container */
-          top: 55px;
+          top: 70px;
           margin: auto;   /* Center the form horizontally and provide top margin */
           max-width: 600px;    /* Example: limit the maximum width of the form */
           text: bold;
         }
         .form-container {
           position: relative;  /* Ensure form is positioned relative to its container */
-          top: 65px;
+          top: 75px;
           margin: auto;   /* Center the form horizontally and provide top margin */
           width: 80%;          /* Adjust width as needed */
           max-width: 600px;    /* Example: limit the maximum width of the form */
