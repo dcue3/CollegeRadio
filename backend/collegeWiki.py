@@ -2,12 +2,26 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+import datetime
 from dotenv import load_dotenv
 from pymongo import MongoClient
+
+def is_sunday():
+    return datetime.datetime.now().weekday() == 6
+
+# Function to check if the current week is an "even" week
+def is_even_week():
+    current_week = datetime.datetime.now().isocalendar()[1]
+    return current_week % 2 == 0
+
+
 
 # Load environment variables from .env file
 load_dotenv()
 
+if not is_sunday() or not is_even_week():
+    print("Skipping execution. Today is not Sunday or not an even week.")
+    exit()
 # Accessing environment variables
 google_maps_api_key = os.getenv('REACT_APP_GOOGLE_MAPS_API_KEY')
 mongo_uri = os.getenv('MONGO_URI') 
@@ -94,6 +108,8 @@ headers = {
     'Connection': 'keep-alive',
     'Referer': url
 }
+
+
 
 # Initialize MongoDB client
 client = MongoClient(mongo_uri)

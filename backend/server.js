@@ -5,16 +5,20 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const College = require('./models/College');
 const Request = require('./models/Request');
-require('dotenv').config();
+// require('dotenv').config();
 const app = express();
-const port = 3001; // You can choose any port you like
+const port = process.env.PORT || 3001; // You can choose any port you like
 
 
 app.use(bodyParser.json());
-app.use(cors());
+const corsOptions = {
+  origin: 'https://dcue3.github.io/CollegeRadio/',
+  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
+};
+app.use(cors(corsOptions));
 app.use(express.json()); 
 
-mongoose.connect('mongodb://localhost:27017/colleges', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true });
 
 
 app.get('/api/maps', async (req, res) => {
