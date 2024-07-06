@@ -5,6 +5,7 @@ import os
 import datetime
 from dotenv import load_dotenv
 from pymongo import MongoClient
+import certifi
 
 def is_sunday():
     return datetime.datetime.now().weekday() == 6
@@ -19,9 +20,9 @@ def is_even_week():
 # Load environment variables from .env file
 load_dotenv()
 
-if not is_sunday() or not is_even_week():
-    print("Skipping execution. Today is not Sunday or not an even week.")
-    exit()
+# if not is_sunday() or not is_even_week():
+#     print("Skipping execution. Today is not Sunday or not an even week.")
+#     exit()
 # Accessing environment variables
 google_maps_api_key = os.getenv('REACT_APP_GOOGLE_MAPS_API_KEY')
 mongo_uri = os.getenv('MONGO_URI') 
@@ -112,8 +113,8 @@ headers = {
 
 
 # Initialize MongoDB client
-client = MongoClient(mongo_uri)
-db = client.get_database()  # Use default database from MongoDB URI
+client =  MongoClient(mongo_uri, tlsCAFile=certifi.where())
+db = client.get_database('collegeradiocluster')  # Use default database from MongoDB URI
 collection = db['colleges']  # MongoDB collection name
 request_collection = db['requests']  # Replace with actual collection name
 db.requests.delete_many({}) #Clear all requests after storing them
@@ -193,10 +194,10 @@ if response.status_code == 200:
         fetch_and_insert()
 
         # Save the data to a JSON file
-        with open('wiki_data.json', 'w') as f:
-            json.dump(rows, f, indent=4)
+        # with open('wiki_data.json', 'w') as f:
+        #     json.dump(rows, f, indent=4)
 
-        print("Data has been saved to wiki_data.json")
+        # print("Data has been saved to wiki_data.json")
     else:
         print("No table found on the webpage.")
 else:

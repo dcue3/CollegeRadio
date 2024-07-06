@@ -47,6 +47,7 @@ const GoogleMap = () => {
       try {
         const response = await axios.get('https://collegeradiobackend-16c4036a90b1.herokuapp.com/api/colleges');
         const collegelist = response.data;
+        console.log("Colleges: " + response.data);
         if (map) {
           collegelist.forEach((college) => {
             if (college.location) {

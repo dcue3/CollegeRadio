@@ -10,28 +10,43 @@ const app = express();
 const port = process.env.PORT || 3001; // You can choose any port you like
 
 
-app.use(bodyParser.json());
-const corsOptions = {
-  origin: 'https://dcue3.github.io/CollegeRadio/',
-  optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
-};
-app.use(cors(corsOptions));
+app.use(cors({
+  origin: 'https://dcue3.github.io', // Allow requests from this origin
+  methods: ['GET', 'POST'], // Allow GET and POST requests
+  allowedHeaders: ['Content-Type', 'Authorization'], // Allow these headers
+}));
+
+// Body parser middleware
 app.use(express.json()); 
 
-mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true });
+
+mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopology: true,ssl: true,
+  tlsAllowInvalidCertificates: false,
+  tlsAllowInvalidHostnames: false });
 
 
-app.get('/api/maps', async (req, res) => {
+
+  app.get('/api/maps', async (req, res) => {
   res.json({ apiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY });
 });
 
 
 app.get('/api/colleges', async (req, res) => {
   try {
-    const colleges = await College.find();
+    const db = mongoose.connection;
+    db.on('error', (error) => {
+      console.error('MongoDB connection error:', error);
+    });
+    db.once('open', () => {
+      console.log('Connected to MongoDB');
+    });
+    
+    const colleges = await College.find({});
+    console.log('Colleges fetched:', colleges);
     res.json(colleges);
   } catch (error) {
-    res.status(500).send('Error fetching data');
+    console.error('Error fetching colleges:', error);
+    res.status(500).send('Error fetching data:'+ error);
   }
 });
 
@@ -78,7 +93,7 @@ app.post('/api/colleges', async (req, res) => {
   } catch (error) {
       console.error('Error saving data to MongoDB:', error);
       res.status(500).json({ message: 'Failed to save request information' });
-  }
-});
+  }// comment
+});  
 
 app.listen(port, () => console.log('Server running on port 3001'));
