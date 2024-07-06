@@ -33,17 +33,19 @@ mongoose.connect(process.env.MONGO_URI, { useNewUrlParser: true, useUnifiedTopol
 
 app.get('/api/colleges', async (req, res) => {
   try {
-    const db = mongoose.connection;
-    db.on('error', (error) => {
-      console.error('MongoDB connection error:', error);
-    });
-    db.once('open', () => {
-      console.log('Connected to MongoDB');
-    });
-    
-    const colleges = await College.find({});
+    // const db = mongoose.connection;
+    // db.on('error', (error) => {
+    //   console.error('MongoDB connection error:', error);
+    // });
+    // db.once('open', () => {
+    //   console.log('Connected to MongoDB');
+    // });
+    const db2 = mongoose.connection.useDb('collegeradiocluster');
+    const CollegeModel = db2.model('College', College.schema);
+    const colleges = await CollegeModel.find();
+    // const colleges = await College.find({});
     console.log('Colleges fetched:', colleges);
-    res.json(colleges);
+    res.json(colleges); 
   } catch (error) {
     console.error('Error fetching colleges:', error);
     res.status(500).send('Error fetching data:'+ error);
