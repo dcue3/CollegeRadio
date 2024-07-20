@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const College = require('./models/College');
 const Request = require('./models/Request');
-// require('dotenv').config();
+require('dotenv').config();
 const app = express();
 const port = process.env.PORT || 3001; // You can choose any port you like
 
@@ -55,27 +55,58 @@ app.get('/api/colleges', async (req, res) => {
 app.get('/api/station/:callLetters/:frequency/:city', async (req, res) => {
   const { callLetters, frequency, city } = req.params;
   try {
-    const response = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${callLetters.substring(0,4)}`);
-    const station = response.data.find(st => st.name.includes(frequency) );
-    const stationTag = response.data.find(st => (st.tags.includes("student") || st.tags.includes("college") || st.tags.includes("university")) );
-    const stationCity = response.data.find(st => st.name.includes(callLetters.substring(0,4)) );
-    const response2 = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${frequency}`);
-    const stationCity2 = response2.data.find(st => st.name.includes(city) );
-    const lastResort = response2.data.find(st => (st.countrycode.includes("US") && st.language.includes("english")) );
-    if(stationTag){res.json({ url: stationTag.url_resolved });}
-    else if (station) {
-      res.json({ url: station.url });
-    } else {
-      if(stationCity){res.json({ url: stationCity.url });}
-      else{if(stationCity2){res.json({ url: stationCity2.url });}
-          else{
-            if(lastResort){
-              res.json({ url: lastResort.url });}
-            else{res.status(404).json({ error: 'Error' });}}
-          }
+    const response = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${callLetters.substring(0, 4)}`);
+    const stations = response.data;
+
+    // Prioritize stations with "student", "college", or "university" tags
+    const stationTag = stations.find(st => 
+      st.tags.includes("student") || st.tags.includes("college") || st.tags.includes("university")
+    );
+
+    if (stationTag) {
+      return res.json({ url: stationTag.url_resolved });
     }
+
+    // Then check for the station by frequency
+    const stationByFrequency = stations.find(st => st.name.includes(frequency));
+    if (stationByFrequency) {
+      return res.json({ url: stationByFrequency.url_resolved });
+    }
+
+    // Then check for the station by call letters
+    const stationByCallLetters = stations.find(st => st.name.includes(callLetters.substring(0, 4)));
+    if (stationByCallLetters) {
+      return res.json({ url: stationByCallLetters.url_resolved });
+    }
+
+    // Fetch additional data by frequency
+    const response2 = await axios.get(`https://de1.api.radio-browser.info/json/stations/byname/${frequency}`);
+    const stationsByFrequency = response2.data;
+
+    //fetch by frequency AND tagged student radio
+    const stationTagFreq = stationsByFrequency.find(st => 
+      st.tags.includes("student") || st.tags.includes("college") || st.tags.includes("university")
+    );
+    if (stationTagFreq) {
+      return res.json({ url: stationTagFreq.url_resolved });
+    }
+
+    // Check for the station by city in the additional data
+    const stationByCity = stationsByFrequency.find(st => st.name.includes(city));
+    if (stationByCity) {
+      return res.json({ url: stationByCity.url_resolved });
+    }
+
+    // Fallback to the last resort
+    const lastResort = stationsByFrequency.find(st => st.countrycode.includes("US") && st.language.includes("english"));
+    if (lastResort) {
+      return res.json({ url: lastResort.url_resolved });
+    }
+
+    // If no stations are found
+    res.status(404).json({ error: 'No matching station found' });
   } catch (error) {
-    res.status('Error 2');
+    res.status(500).json({ error: 'Internal Server Error' });
   }
 });
 
