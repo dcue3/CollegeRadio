@@ -11,8 +11,6 @@ const GoogleMap = () => {
     letters: '',
     frequency: '',
   });
-  const markerCount = 0;
-  const workingCount=0;
 
   useEffect(() => {
     const fetchApiKey = async () => {
@@ -81,7 +79,7 @@ const GoogleMap = () => {
 
   const playStation = async (college, callLetters, frequency, logo, city) => {
     const url = await fetchStreamUrl(callLetters, frequency, city);
-    if (url) {
+    if (url && checkStreamUrl(url) ) {
       try{
       const audioPlayer = audioPlayerRef.current;
       audioPlayer.src = url;
@@ -129,8 +127,6 @@ const GoogleMap = () => {
       const infowindow = new window.google.maps.InfoWindow({
         content: contentString,
       });
-      markerCount++;
-      if(checkStreamUrl(url)){workingCount++;}
 
       marker.addListener('click', () => {
         infowindow.open(map, marker);
@@ -249,7 +245,7 @@ const GoogleMap = () => {
         <button type="submit">Submit</button>
       </form>
       <section class="about-author">
-      <h2>About NUMBER: {markerCount} WORKING: {workingCount}  </h2>
+      <h2>About</h2>
       <p>Project: This website uses Google Maps' API for displaying colleges and their locations, as well as the RadioBrowser API to find and play their corresponding
         radio stations. At the start of every other week, the website is refreshed, checking for station updates as well as processing
         requests to add new colleges/stations. Code is available through the GitHub link below. <br/> <br/> 
