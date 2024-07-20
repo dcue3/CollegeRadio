@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+## Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The College Radio Player is a web application that displays a map of U.S. colleges and their student radio stations. Users can select a college and play its respective radio station directly from the map. The application leverages Google's Maps API to display the colleges and the RadioBrowser API to fetch and play the radio stations. The frontend uses React, backend uses Flask, and the database used is MongoDB. 
 
-## Available Scripts
+### VIEW LIVE WEBSITE:
+https://dcue3.github.io/CollegeRadio/
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Interactive Map**: Uses Google Maps API to display colleges on a map.
+- **Radio Station Playback**: Allows users to select and play radio stations directly from the map.
+- **Radio Station Submission**: Users can submit requests to add or update college radio stations.
+- **Now Playing Display**: Shows the currently playing station and its details.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Frontend
 
-### `npm test`
+- **React**: Frontend framework for building the user interface.
+- **Google Maps API**: For displaying the map and placing markers.
+- **RadioBrowser API**: For fetching radio station streams.
+- **Axios**: For making HTTP requests to the backend.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Backend
 
-### `npm run build`
+- **Python**: Backend language.
+- **Flask**: Web framework for the backend.
+- **MongoDB**: Database for storing college and radio station data.
+- **BeautifulSoup**: For web scraping to gather data.
+- **Selenium**: For web scraping dynamic content.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Frontend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/dcue3/CollegeRadio.git
+    cd CollegeRadio
+    ```
 
-### `npm run eject`
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+3. Start the development server:
+    ```bash
+    npm start
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Backend
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Navigate to the `backend` directory:
+    ```bash
+    cd backend
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Create and activate a virtual environment:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    ```
 
-## Learn More
+3. Install the required packages:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Run the backend server:
+    ```bash
+    python app.py
+    ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+### Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. **View the Map**: Open the application in your browser. The map will display the locations of U.S. colleges.
 
-### Analyzing the Bundle Size
+2. **Play a Radio Station**: Click on a college marker to open an info window with a "Play" button. Click the button to start playing the station.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+3. **Submit a Radio Station**: If a college or station is missing or outdated, fill out the submission form at the bottom of the page to request an update.
 
-### Making a Progressive Web App
+### Backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. **Fetch Data**: The backend periodically fetches and updates the college radio station data using a Python script.
 
-### Advanced Configuration
+2. **API Endpoints**:
+    - `GET /api/maps`: Fetch the Google Maps API key.
+    - `GET /api/colleges`: Fetch the list of colleges and their radio stations.
+    - `GET /api/station/{callLetters}/{frequency}/{city}`: Fetch the stream URL for a specific radio station.
+    - `POST /api/colleges`: Submit new or updated college radio station information.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Components
 
-### Deployment
+### Frontend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- **GoogleMap**: The main component that initializes and displays the map, places markers, and handles user interactions.
+- **NowPlaying**: Displays the currently playing station and its details.
+- **Form**: Allows users to submit new or updated radio station information.
 
-### `npm run build` fails to minify
+### Backend
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **app.py**: Main Flask application file.
+- **fetch_data.py**: Script to fetch and update college radio station data.
+- **requirements.txt**: Lists the required Python packages.

@@ -11,6 +11,8 @@ const GoogleMap = () => {
     letters: '',
     frequency: '',
   });
+  const markerCount = 0;
+  const workingCount=0;
 
   useEffect(() => {
     const fetchApiKey = async () => {
@@ -127,6 +129,8 @@ const GoogleMap = () => {
       const infowindow = new window.google.maps.InfoWindow({
         content: contentString,
       });
+      markerCount++;
+      if(checkStreamUrl(url)){workingCount++;}
 
       marker.addListener('click', () => {
         infowindow.open(map, marker);
@@ -170,6 +174,21 @@ const GoogleMap = () => {
     audioPlayer.src = 'http://stream.whrb.org:8000/whrb-mp3'; // Reset the source
     audioPlayer.style.display = 'none'; // Hide the player
     alert('Failed to load audio. Invalid source or unsupported format.');
+  };
+
+  const checkStreamUrl = async (url) => {
+    try {
+      const response = await fetch(url, { method: 'HEAD' }); // Use HEAD to only fetch headers
+      // Check if the response status is OK and content-type is audio
+      if (response.ok && response.headers.get('content-type')?.startsWith('audio')) {
+        return true;
+      } else {
+        return false;
+      }
+    } catch (error) {
+      console.error('Error checking stream URL:', error);
+      return false;
+    }
   };
 
   const handleSubmit = async (e) => {
@@ -230,7 +249,7 @@ const GoogleMap = () => {
         <button type="submit">Submit</button>
       </form>
       <section class="about-author">
-      <h2>About</h2>
+      <h2>About NUMBER: {markerCount} WORKING: {workingCount}  </h2>
       <p>Project: This website uses Google Maps' API for displaying colleges and their locations, as well as the RadioBrowser API to find and play their corresponding
         radio stations. At the start of every other week, the website is refreshed, checking for station updates as well as processing
         requests to add new colleges/stations. Code is available through the GitHub link below. <br/> <br/> 
