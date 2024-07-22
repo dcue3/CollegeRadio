@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const College = require('./models/College');
 const Request = require('./models/Request');
-require('dotenv').config();
+// require('dotenv').config();
 const app = express();
 const port = process.env.PORT || 3001; // You can choose any port you like
 

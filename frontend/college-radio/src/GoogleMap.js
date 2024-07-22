@@ -249,8 +249,8 @@ const GoogleMap = () => {
       <p>Project: This website uses Google Maps' API for displaying colleges and their locations, as well as the RadioBrowser API to find and play their corresponding
         radio stations. At the start of every other week, the website is refreshed, checking for station updates as well as processing
         requests to add new colleges/stations. Code is available through the GitHub link below. <br/> <br/> 
-        Limitations: This project uses data on colege radio stations from Wikipedia. Some may be outdated, or no longer available due to 
-        many college stations being taken off air and moved to online only. 
+        Limitations: This project uses data on college radio stations from Wikipedia and Radio Browser. Some may be outdated, or no longer available due to 
+        many college stations being taken off air and moved to online only. If a station takes longer than a few seconds to load, it is likely no longer available.
         <br/> <br/>Author:
         My name is David Cue, I am a third-year computer science student at the University of Southern California.
       </p>
@@ -267,7 +267,7 @@ const GoogleMap = () => {
           position: relative; /* Position at the bottom, stays fixed */
           float: left;
           top: 100px;
-          width: 95%; /* Set the width to half the page */
+          width: 100%; /* Set the width to half the page */
           padding: 1rem; /* Add some padding for content */
           background-color: #f9f5f0; /* Set a light background color */
           overflow-x: auto; /* Enable horizontal scroll if content overflows */
