@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/CollegeRadio/static/css/main.e6c13ad2.css",
-    "main.js": "/CollegeRadio/static/js/main.3774f4b1.js",
+    "main.js": "/CollegeRadio/static/js/main.757e6bab.js",
     "static/js/453.06e5bf4d.chunk.js": "/CollegeRadio/static/js/453.06e5bf4d.chunk.js",
     "static/media/CollegeRadioTitle.png": "/CollegeRadio/static/media/CollegeRadioTitle.df388aa34d0aeb99c9b5.png",
     "index.html": "/CollegeRadio/index.html",
     "main.e6c13ad2.css.map": "/CollegeRadio/static/css/main.e6c13ad2.css.map",
-    "main.3774f4b1.js.map": "/CollegeRadio/static/js/main.3774f4b1.js.map",
+    "main.757e6bab.js.map": "/CollegeRadio/static/js/main.757e6bab.js.map",
     "453.06e5bf4d.chunk.js.map": "/CollegeRadio/static/js/453.06e5bf4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3774f4b1.js"
+    "static/js/main.757e6bab.js"
   ]
 }
