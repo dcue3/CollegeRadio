@@ -261,14 +261,16 @@ const GoogleMap = () => {
         .background{
           background-color: #f9f5f0;
           opacity: 1;
+          width: 100%;
           background-size: 10px 10px;
         }
         .about-author {
           position: relative; /* Position at the bottom, stays fixed */
           float: left;
           top: 100px;
-          width: 100%; /* Set the width to half the page */
-          padding: 1rem; /* Add some padding for content */
+          width: 95%; /* Set the width to half the page */
+          padding-left: 1rem; /* Add some padding for content */
+          padding-right: 4rem; /* Add some padding for content */
           background-color: #f9f5f0; /* Set a light background color */
           overflow-x: auto; /* Enable horizontal scroll if content overflows */
           border-radius: 5px;
